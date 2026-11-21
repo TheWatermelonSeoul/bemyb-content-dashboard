@@ -1,0 +1,216 @@
+{
+ "date": "2026-08-03",
+ "collectedAt": "2026-11-21T04:59:17.077Z",
+ "pages": [
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 82
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 222
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 28
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 43
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 23
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_payment/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 7
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 78
+  },
+  {
+   "source": "내부유입",
+   "visits": 60
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 9
+  },
+  {
+   "source": "직접유입",
+   "visits": 126
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 45
+  },
+  {
+   "domain": "event-us.kr",
+   "visits": 2
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "froma.co",
+   "visits": 1
+  },
+  {
+   "domain": "notion.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 33
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "worksmobile.com",
+   "visits": 1
+  },
+  {
+   "domain": "zero-base.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 60
+  },
+  {
+   "domain": "직접유입",
+   "visits": 126
+  }
+ ]
+}

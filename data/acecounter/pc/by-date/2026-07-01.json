@@ -1,0 +1,241 @@
+{
+ "date": "2026-07-01",
+ "collectedAt": "2026-11-21T04:56:40.039Z",
+ "pages": [
+  {
+   "url": "/351",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/75",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/brandfgd_food",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandtrip1",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 75
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 829
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 27
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 39
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/magazineb",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 19
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 4
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 86
+  },
+  {
+   "source": "내부유입",
+   "visits": 47
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 14
+  },
+  {
+   "source": "직접유입",
+   "visits": 658
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 2
+  },
+  {
+   "domain": "claude.ai",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 56
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 30
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 2
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "thewatermelon.com",
+   "visits": 3
+  },
+  {
+   "domain": "내부유입",
+   "visits": 47
+  },
+  {
+   "domain": "직접유입",
+   "visits": 658
+  }
+ ]
+}

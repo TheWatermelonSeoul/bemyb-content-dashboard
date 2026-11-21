@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-29",
+ "collectedAt": "2026-11-21T05:06:11.040Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 42
+  },
+  {
+   "url": "/contents-047",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 125
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 29
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 54
+  },
+  {
+   "source": "내부유입",
+   "visits": 29
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 80
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 39
+  },
+  {
+   "domain": "goodsearch.com",
+   "visits": 1
+  },
+  {
+   "domain": "facesaerch.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 15
+  },
+  {
+   "domain": "stibee.com",
+   "visits": 1
+  },
+  {
+   "domain": "thewatermelon.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 29
+  },
+  {
+   "domain": "직접유입",
+   "visits": 80
+  }
+ ]
+}

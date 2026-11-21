@@ -1,0 +1,3447 @@
+{
+ "2025-01-01": {
+  "date": "2025-01-01",
+  "friendCount": 10821,
+  "friendAdd": 2
+ },
+ "2025-01-02": {
+  "date": "2025-01-02",
+  "friendCount": 10824,
+  "friendAdd": 4
+ },
+ "2025-01-03": {
+  "date": "2025-01-03",
+  "friendCount": 10828,
+  "friendAdd": 4
+ },
+ "2025-01-04": {
+  "date": "2025-01-04",
+  "friendCount": 10833,
+  "friendAdd": 5
+ },
+ "2025-01-05": {
+  "date": "2025-01-05",
+  "friendCount": 10836,
+  "friendAdd": 5
+ },
+ "2025-01-06": {
+  "date": "2025-01-06",
+  "friendCount": 10826,
+  "friendAdd": 2
+ },
+ "2025-01-07": {
+  "date": "2025-01-07",
+  "friendCount": 10827,
+  "friendAdd": 4
+ },
+ "2025-01-08": {
+  "date": "2025-01-08",
+  "friendCount": 10823,
+  "friendAdd": 10
+ },
+ "2025-01-09": {
+  "date": "2025-01-09",
+  "friendCount": 10824,
+  "friendAdd": 5
+ },
+ "2025-01-10": {
+  "date": "2025-01-10",
+  "friendCount": 10827,
+  "friendAdd": 5
+ },
+ "2025-01-11": {
+  "date": "2025-01-11",
+  "friendCount": 10828,
+  "friendAdd": 1
+ },
+ "2025-01-12": {
+  "date": "2025-01-12",
+  "friendCount": 10830,
+  "friendAdd": 2
+ },
+ "2025-01-13": {
+  "date": "2025-01-13",
+  "friendCount": 10831,
+  "friendAdd": 2
+ },
+ "2025-01-14": {
+  "date": "2025-01-14",
+  "friendCount": 10837,
+  "friendAdd": 6
+ },
+ "2025-01-15": {
+  "date": "2025-01-15",
+  "friendCount": 10828,
+  "friendAdd": 3
+ },
+ "2025-01-16": {
+  "date": "2025-01-16",
+  "friendCount": 10832,
+  "friendAdd": 6
+ },
+ "2025-01-17": {
+  "date": "2025-01-17",
+  "friendCount": 10836,
+  "friendAdd": 5
+ },
+ "2025-01-18": {
+  "date": "2025-01-18",
+  "friendCount": 10835,
+  "friendAdd": 1
+ },
+ "2025-01-19": {
+  "date": "2025-01-19",
+  "friendCount": 10834,
+  "friendAdd": 2
+ },
+ "2025-01-20": {
+  "date": "2025-01-20",
+  "friendCount": 10837,
+  "friendAdd": 3
+ },
+ "2025-01-21": {
+  "date": "2025-01-21",
+  "friendCount": 10843,
+  "friendAdd": 7
+ },
+ "2025-01-22": {
+  "date": "2025-01-22",
+  "friendCount": 10846,
+  "friendAdd": 11
+ },
+ "2025-01-23": {
+  "date": "2025-01-23",
+  "friendCount": 10846,
+  "friendAdd": 3
+ },
+ "2025-01-24": {
+  "date": "2025-01-24",
+  "friendCount": 10849,
+  "friendAdd": 5
+ },
+ "2025-01-25": {
+  "date": "2025-01-25",
+  "friendCount": 10848,
+  "friendAdd": 0
+ },
+ "2025-01-26": {
+  "date": "2025-01-26",
+  "friendCount": 10851,
+  "friendAdd": 4
+ },
+ "2025-01-27": {
+  "date": "2025-01-27",
+  "friendCount": 10852,
+  "friendAdd": 4
+ },
+ "2025-01-28": {
+  "date": "2025-01-28",
+  "friendCount": 10850,
+  "friendAdd": 2
+ },
+ "2025-01-29": {
+  "date": "2025-01-29",
+  "friendCount": 10850,
+  "friendAdd": 0
+ },
+ "2025-01-30": {
+  "date": "2025-01-30",
+  "friendCount": 10838,
+  "friendAdd": 2
+ },
+ "2025-01-31": {
+  "date": "2025-01-31",
+  "friendCount": 10839,
+  "friendAdd": 5
+ },
+ "2025-02-01": {
+  "date": "2025-02-01",
+  "friendCount": 10840,
+  "friendAdd": 3
+ },
+ "2025-02-02": {
+  "date": "2025-02-02",
+  "friendCount": 10842,
+  "friendAdd": 3
+ },
+ "2025-02-03": {
+  "date": "2025-02-03",
+  "friendCount": 10841,
+  "friendAdd": 3
+ },
+ "2025-02-04": {
+  "date": "2025-02-04",
+  "friendCount": 10844,
+  "friendAdd": 6
+ },
+ "2025-02-05": {
+  "date": "2025-02-05",
+  "friendCount": 10843,
+  "friendAdd": 6
+ },
+ "2025-02-06": {
+  "date": "2025-02-06",
+  "friendCount": 10844,
+  "friendAdd": 3
+ },
+ "2025-02-07": {
+  "date": "2025-02-07",
+  "friendCount": 10830,
+  "friendAdd": 3
+ },
+ "2025-02-08": {
+  "date": "2025-02-08",
+  "friendCount": 10835,
+  "friendAdd": 6
+ },
+ "2025-02-09": {
+  "date": "2025-02-09",
+  "friendCount": 10838,
+  "friendAdd": 3
+ },
+ "2025-02-10": {
+  "date": "2025-02-10",
+  "friendCount": 10841,
+  "friendAdd": 5
+ },
+ "2025-02-11": {
+  "date": "2025-02-11",
+  "friendCount": 10848,
+  "friendAdd": 7
+ },
+ "2025-02-12": {
+  "date": "2025-02-12",
+  "friendCount": 10840,
+  "friendAdd": 6
+ },
+ "2025-02-13": {
+  "date": "2025-02-13",
+  "friendCount": 10843,
+  "friendAdd": 3
+ },
+ "2025-02-14": {
+  "date": "2025-02-14",
+  "friendCount": 10846,
+  "friendAdd": 4
+ },
+ "2025-02-15": {
+  "date": "2025-02-15",
+  "friendCount": 10844,
+  "friendAdd": 0
+ },
+ "2025-02-16": {
+  "date": "2025-02-16",
+  "friendCount": 10847,
+  "friendAdd": 3
+ },
+ "2025-02-17": {
+  "date": "2025-02-17",
+  "friendCount": 10853,
+  "friendAdd": 7
+ },
+ "2025-02-18": {
+  "date": "2025-02-18",
+  "friendCount": 10854,
+  "friendAdd": 2
+ },
+ "2025-02-19": {
+  "date": "2025-02-19",
+  "friendCount": 10854,
+  "friendAdd": 9
+ },
+ "2025-02-20": {
+  "date": "2025-02-20",
+  "friendCount": 10858,
+  "friendAdd": 7
+ },
+ "2025-02-21": {
+  "date": "2025-02-21",
+  "friendCount": 10859,
+  "friendAdd": 3
+ },
+ "2025-02-22": {
+  "date": "2025-02-22",
+  "friendCount": 10862,
+  "friendAdd": 4
+ },
+ "2025-02-23": {
+  "date": "2025-02-23",
+  "friendCount": 10866,
+  "friendAdd": 4
+ },
+ "2025-02-24": {
+  "date": "2025-02-24",
+  "friendCount": 10871,
+  "friendAdd": 5
+ },
+ "2025-02-25": {
+  "date": "2025-02-25",
+  "friendCount": 10873,
+  "friendAdd": 4
+ },
+ "2025-02-26": {
+  "date": "2025-02-26",
+  "friendCount": 10870,
+  "friendAdd": 6
+ },
+ "2025-02-27": {
+  "date": "2025-02-27",
+  "friendCount": 10878,
+  "friendAdd": 10
+ },
+ "2025-02-28": {
+  "date": "2025-02-28",
+  "friendCount": 10878,
+  "friendAdd": 1
+ },
+ "2025-03-01": {
+  "date": "2025-03-01",
+  "friendCount": 10878,
+  "friendAdd": 1
+ },
+ "2025-03-02": {
+  "date": "2025-03-02",
+  "friendCount": 10876,
+  "friendAdd": 1
+ },
+ "2025-03-03": {
+  "date": "2025-03-03",
+  "friendCount": 10877,
+  "friendAdd": 1
+ },
+ "2025-03-04": {
+  "date": "2025-03-04",
+  "friendCount": 10881,
+  "friendAdd": 5
+ },
+ "2025-03-05": {
+  "date": "2025-03-05",
+  "friendCount": 10878,
+  "friendAdd": 4
+ },
+ "2025-03-06": {
+  "date": "2025-03-06",
+  "friendCount": 10881,
+  "friendAdd": 5
+ },
+ "2025-03-07": {
+  "date": "2025-03-07",
+  "friendCount": 10885,
+  "friendAdd": 5
+ },
+ "2025-03-08": {
+  "date": "2025-03-08",
+  "friendCount": 10887,
+  "friendAdd": 3
+ },
+ "2025-03-09": {
+  "date": "2025-03-09",
+  "friendCount": 10889,
+  "friendAdd": 3
+ },
+ "2025-03-10": {
+  "date": "2025-03-10",
+  "friendCount": 10891,
+  "friendAdd": 2
+ },
+ "2025-03-11": {
+  "date": "2025-03-11",
+  "friendCount": 10896,
+  "friendAdd": 5
+ },
+ "2025-03-12": {
+  "date": "2025-03-12",
+  "friendCount": 10901,
+  "friendAdd": 13
+ },
+ "2025-03-13": {
+  "date": "2025-03-13",
+  "friendCount": 10908,
+  "friendAdd": 9
+ },
+ "2025-03-14": {
+  "date": "2025-03-14",
+  "friendCount": 10914,
+  "friendAdd": 7
+ },
+ "2025-03-15": {
+  "date": "2025-03-15",
+  "friendCount": 10915,
+  "friendAdd": 1
+ },
+ "2025-03-16": {
+  "date": "2025-03-16",
+  "friendCount": 10917,
+  "friendAdd": 2
+ },
+ "2025-03-17": {
+  "date": "2025-03-17",
+  "friendCount": 10924,
+  "friendAdd": 8
+ },
+ "2025-03-18": {
+  "date": "2025-03-18",
+  "friendCount": 10932,
+  "friendAdd": 8
+ },
+ "2025-03-19": {
+  "date": "2025-03-19",
+  "friendCount": 10924,
+  "friendAdd": 4
+ },
+ "2025-03-20": {
+  "date": "2025-03-20",
+  "friendCount": 10922,
+  "friendAdd": 2
+ },
+ "2025-03-21": {
+  "date": "2025-03-21",
+  "friendCount": 10920,
+  "friendAdd": 6
+ },
+ "2025-03-22": {
+  "date": "2025-03-22",
+  "friendCount": 10922,
+  "friendAdd": 3
+ },
+ "2025-03-23": {
+  "date": "2025-03-23",
+  "friendCount": 10922,
+  "friendAdd": 0
+ },
+ "2025-03-24": {
+  "date": "2025-03-24",
+  "friendCount": 10926,
+  "friendAdd": 6
+ },
+ "2025-03-25": {
+  "date": "2025-03-25",
+  "friendCount": 10930,
+  "friendAdd": 6
+ },
+ "2025-03-26": {
+  "date": "2025-03-26",
+  "friendCount": 10922,
+  "friendAdd": 3
+ },
+ "2025-03-27": {
+  "date": "2025-03-27",
+  "friendCount": 10924,
+  "friendAdd": 4
+ },
+ "2025-03-28": {
+  "date": "2025-03-28",
+  "friendCount": 10929,
+  "friendAdd": 6
+ },
+ "2025-03-29": {
+  "date": "2025-03-29",
+  "friendCount": 10928,
+  "friendAdd": 1
+ },
+ "2025-03-30": {
+  "date": "2025-03-30",
+  "friendCount": 10931,
+  "friendAdd": 3
+ },
+ "2025-03-31": {
+  "date": "2025-03-31",
+  "friendCount": 10934,
+  "friendAdd": 3
+ },
+ "2025-04-01": {
+  "date": "2025-04-01",
+  "friendCount": 10938,
+  "friendAdd": 4
+ },
+ "2025-04-02": {
+  "date": "2025-04-02",
+  "friendCount": 10935,
+  "friendAdd": 6
+ },
+ "2025-04-03": {
+  "date": "2025-04-03",
+  "friendCount": 10935,
+  "friendAdd": 2
+ },
+ "2025-04-04": {
+  "date": "2025-04-04",
+  "friendCount": 10936,
+  "friendAdd": 1
+ },
+ "2025-04-05": {
+  "date": "2025-04-05",
+  "friendCount": 10934,
+  "friendAdd": 0
+ },
+ "2025-04-06": {
+  "date": "2025-04-06",
+  "friendCount": 10935,
+  "friendAdd": 2
+ },
+ "2025-04-07": {
+  "date": "2025-04-07",
+  "friendCount": 10941,
+  "friendAdd": 6
+ },
+ "2025-04-08": {
+  "date": "2025-04-08",
+  "friendCount": 10943,
+  "friendAdd": 4
+ },
+ "2025-04-09": {
+  "date": "2025-04-09",
+  "friendCount": 10943,
+  "friendAdd": 4
+ },
+ "2025-04-10": {
+  "date": "2025-04-10",
+  "friendCount": 10943,
+  "friendAdd": 3
+ },
+ "2025-04-11": {
+  "date": "2025-04-11",
+  "friendCount": 10949,
+  "friendAdd": 6
+ },
+ "2025-04-12": {
+  "date": "2025-04-12",
+  "friendCount": 10948,
+  "friendAdd": 2
+ },
+ "2025-04-13": {
+  "date": "2025-04-13",
+  "friendCount": 10949,
+  "friendAdd": 2
+ },
+ "2025-04-14": {
+  "date": "2025-04-14",
+  "friendCount": 10952,
+  "friendAdd": 4
+ },
+ "2025-04-15": {
+  "date": "2025-04-15",
+  "friendCount": 10953,
+  "friendAdd": 2
+ },
+ "2025-04-16": {
+  "date": "2025-04-16",
+  "friendCount": 10952,
+  "friendAdd": 7
+ },
+ "2025-04-17": {
+  "date": "2025-04-17",
+  "friendCount": 10959,
+  "friendAdd": 7
+ },
+ "2025-04-18": {
+  "date": "2025-04-18",
+  "friendCount": 10953,
+  "friendAdd": 2
+ },
+ "2025-04-19": {
+  "date": "2025-04-19",
+  "friendCount": 10950,
+  "friendAdd": 1
+ },
+ "2025-04-20": {
+  "date": "2025-04-20",
+  "friendCount": 10950,
+  "friendAdd": 2
+ },
+ "2025-04-21": {
+  "date": "2025-04-21",
+  "friendCount": 10955,
+  "friendAdd": 5
+ },
+ "2025-04-22": {
+  "date": "2025-04-22",
+  "friendCount": 10956,
+  "friendAdd": 4
+ },
+ "2025-04-23": {
+  "date": "2025-04-23",
+  "friendCount": 10949,
+  "friendAdd": 4
+ },
+ "2025-04-24": {
+  "date": "2025-04-24",
+  "friendCount": 10955,
+  "friendAdd": 6
+ },
+ "2025-04-25": {
+  "date": "2025-04-25",
+  "friendCount": 10956,
+  "friendAdd": 2
+ },
+ "2025-04-26": {
+  "date": "2025-04-26",
+  "friendCount": 10955,
+  "friendAdd": 0
+ },
+ "2025-04-27": {
+  "date": "2025-04-27",
+  "friendCount": 10957,
+  "friendAdd": 2
+ },
+ "2025-04-28": {
+  "date": "2025-04-28",
+  "friendCount": 10956,
+  "friendAdd": 0
+ },
+ "2025-04-29": {
+  "date": "2025-04-29",
+  "friendCount": 10957,
+  "friendAdd": 4
+ },
+ "2025-04-30": {
+  "date": "2025-04-30",
+  "friendCount": 10949,
+  "friendAdd": 2
+ },
+ "2025-05-01": {
+  "date": "2025-05-01",
+  "friendCount": 10948,
+  "friendAdd": 2
+ },
+ "2025-05-02": {
+  "date": "2025-05-02",
+  "friendCount": 10948,
+  "friendAdd": 1
+ },
+ "2025-05-03": {
+  "date": "2025-05-03",
+  "friendCount": 10945,
+  "friendAdd": 0
+ },
+ "2025-05-04": {
+  "date": "2025-05-04",
+  "friendCount": 10946,
+  "friendAdd": 2
+ },
+ "2025-05-05": {
+  "date": "2025-05-05",
+  "friendCount": 10947,
+  "friendAdd": 2
+ },
+ "2025-05-06": {
+  "date": "2025-05-06",
+  "friendCount": 10950,
+  "friendAdd": 5
+ },
+ "2025-05-07": {
+  "date": "2025-05-07",
+  "friendCount": 10949,
+  "friendAdd": 5
+ },
+ "2025-05-08": {
+  "date": "2025-05-08",
+  "friendCount": 10948,
+  "friendAdd": 1
+ },
+ "2025-05-09": {
+  "date": "2025-05-09",
+  "friendCount": 10949,
+  "friendAdd": 2
+ },
+ "2025-05-10": {
+  "date": "2025-05-10",
+  "friendCount": 10949,
+  "friendAdd": 0
+ },
+ "2025-05-11": {
+  "date": "2025-05-11",
+  "friendCount": 10950,
+  "friendAdd": 3
+ },
+ "2025-05-12": {
+  "date": "2025-05-12",
+  "friendCount": 10950,
+  "friendAdd": 1
+ },
+ "2025-05-13": {
+  "date": "2025-05-13",
+  "friendCount": 10952,
+  "friendAdd": 3
+ },
+ "2025-05-14": {
+  "date": "2025-05-14",
+  "friendCount": 10950,
+  "friendAdd": 1
+ },
+ "2025-05-15": {
+  "date": "2025-05-15",
+  "friendCount": 10950,
+  "friendAdd": 3
+ },
+ "2025-05-16": {
+  "date": "2025-05-16",
+  "friendCount": 10948,
+  "friendAdd": 1
+ },
+ "2025-05-17": {
+  "date": "2025-05-17",
+  "friendCount": 10949,
+  "friendAdd": 1
+ },
+ "2025-05-18": {
+  "date": "2025-05-18",
+  "friendCount": 10948,
+  "friendAdd": 1
+ },
+ "2025-05-19": {
+  "date": "2025-05-19",
+  "friendCount": 10951,
+  "friendAdd": 4
+ },
+ "2025-05-20": {
+  "date": "2025-05-20",
+  "friendCount": 10951,
+  "friendAdd": 3
+ },
+ "2025-05-21": {
+  "date": "2025-05-21",
+  "friendCount": 10940,
+  "friendAdd": 4
+ },
+ "2025-05-22": {
+  "date": "2025-05-22",
+  "friendCount": 10941,
+  "friendAdd": 6
+ },
+ "2025-05-23": {
+  "date": "2025-05-23",
+  "friendCount": 10940,
+  "friendAdd": 2
+ },
+ "2025-05-24": {
+  "date": "2025-05-24",
+  "friendCount": 10939,
+  "friendAdd": 0
+ },
+ "2025-05-25": {
+  "date": "2025-05-25",
+  "friendCount": 10940,
+  "friendAdd": 1
+ },
+ "2025-05-26": {
+  "date": "2025-05-26",
+  "friendCount": 10943,
+  "friendAdd": 4
+ },
+ "2025-05-27": {
+  "date": "2025-05-27",
+  "friendCount": 10944,
+  "friendAdd": 5
+ },
+ "2025-05-28": {
+  "date": "2025-05-28",
+  "friendCount": 10933,
+  "friendAdd": 5
+ },
+ "2025-05-29": {
+  "date": "2025-05-29",
+  "friendCount": 10934,
+  "friendAdd": 3
+ },
+ "2025-05-30": {
+  "date": "2025-05-30",
+  "friendCount": 10935,
+  "friendAdd": 1
+ },
+ "2025-05-31": {
+  "date": "2025-05-31",
+  "friendCount": 10936,
+  "friendAdd": 2
+ },
+ "2025-06-01": {
+  "date": "2025-06-01",
+  "friendCount": 10934,
+  "friendAdd": 0
+ },
+ "2025-06-02": {
+  "date": "2025-06-02",
+  "friendCount": 10937,
+  "friendAdd": 5
+ },
+ "2025-06-03": {
+  "date": "2025-06-03",
+  "friendCount": 10938,
+  "friendAdd": 2
+ },
+ "2025-06-04": {
+  "date": "2025-06-04",
+  "friendCount": 10932,
+  "friendAdd": 2
+ },
+ "2025-06-05": {
+  "date": "2025-06-05",
+  "friendCount": 10936,
+  "friendAdd": 4
+ },
+ "2025-06-06": {
+  "date": "2025-06-06",
+  "friendCount": 10935,
+  "friendAdd": 1
+ },
+ "2025-06-07": {
+  "date": "2025-06-07",
+  "friendCount": 10934,
+  "friendAdd": 2
+ },
+ "2025-06-08": {
+  "date": "2025-06-08",
+  "friendCount": 10934,
+  "friendAdd": 0
+ },
+ "2025-06-09": {
+  "date": "2025-06-09",
+  "friendCount": 10936,
+  "friendAdd": 4
+ },
+ "2025-06-10": {
+  "date": "2025-06-10",
+  "friendCount": 10940,
+  "friendAdd": 4
+ },
+ "2025-06-11": {
+  "date": "2025-06-11",
+  "friendCount": 10937,
+  "friendAdd": 5
+ },
+ "2025-06-12": {
+  "date": "2025-06-12",
+  "friendCount": 10936,
+  "friendAdd": 1
+ },
+ "2025-06-13": {
+  "date": "2025-06-13",
+  "friendCount": 10924,
+  "friendAdd": 3
+ },
+ "2025-06-14": {
+  "date": "2025-06-14",
+  "friendCount": 10921,
+  "friendAdd": 1
+ },
+ "2025-06-15": {
+  "date": "2025-06-15",
+  "friendCount": 10919,
+  "friendAdd": 1
+ },
+ "2025-06-16": {
+  "date": "2025-06-16",
+  "friendCount": 10918,
+  "friendAdd": 1
+ },
+ "2025-06-17": {
+  "date": "2025-06-17",
+  "friendCount": 10927,
+  "friendAdd": 10
+ },
+ "2025-06-18": {
+  "date": "2025-06-18",
+  "friendCount": 10919,
+  "friendAdd": 10
+ },
+ "2025-06-19": {
+  "date": "2025-06-19",
+  "friendCount": 10922,
+  "friendAdd": 4
+ },
+ "2025-06-20": {
+  "date": "2025-06-20",
+  "friendCount": 10924,
+  "friendAdd": 2
+ },
+ "2025-06-21": {
+  "date": "2025-06-21",
+  "friendCount": 10923,
+  "friendAdd": 0
+ },
+ "2025-06-22": {
+  "date": "2025-06-22",
+  "friendCount": 10924,
+  "friendAdd": 1
+ },
+ "2025-06-23": {
+  "date": "2025-06-23",
+  "friendCount": 10923,
+  "friendAdd": 0
+ },
+ "2025-06-24": {
+  "date": "2025-06-24",
+  "friendCount": 10924,
+  "friendAdd": 2
+ },
+ "2025-06-25": {
+  "date": "2025-06-25",
+  "friendCount": 10919,
+  "friendAdd": 4
+ },
+ "2025-06-26": {
+  "date": "2025-06-26",
+  "friendCount": 10920,
+  "friendAdd": 2
+ },
+ "2025-06-27": {
+  "date": "2025-06-27",
+  "friendCount": 10911,
+  "friendAdd": 2
+ },
+ "2025-06-28": {
+  "date": "2025-06-28",
+  "friendCount": 10909,
+  "friendAdd": 0
+ },
+ "2025-06-29": {
+  "date": "2025-06-29",
+  "friendCount": 10909,
+  "friendAdd": 2
+ },
+ "2025-06-30": {
+  "date": "2025-06-30",
+  "friendCount": 10907,
+  "friendAdd": 0
+ },
+ "2025-07-01": {
+  "date": "2025-07-01",
+  "friendCount": 10912,
+  "friendAdd": 9
+ },
+ "2025-07-02": {
+  "date": "2025-07-02",
+  "friendCount": 10919,
+  "friendAdd": 10
+ },
+ "2025-07-03": {
+  "date": "2025-07-03",
+  "friendCount": 10925,
+  "friendAdd": 6
+ },
+ "2025-07-04": {
+  "date": "2025-07-04",
+  "friendCount": 10925,
+  "friendAdd": 1
+ },
+ "2025-07-05": {
+  "date": "2025-07-05",
+  "friendCount": 10927,
+  "friendAdd": 2
+ },
+ "2025-07-06": {
+  "date": "2025-07-06",
+  "friendCount": 10928,
+  "friendAdd": 2
+ },
+ "2025-07-07": {
+  "date": "2025-07-07",
+  "friendCount": 10928,
+  "friendAdd": 1
+ },
+ "2025-07-08": {
+  "date": "2025-07-08",
+  "friendCount": 10930,
+  "friendAdd": 4
+ },
+ "2025-07-09": {
+  "date": "2025-07-09",
+  "friendCount": 10927,
+  "friendAdd": 6
+ },
+ "2025-07-10": {
+  "date": "2025-07-10",
+  "friendCount": 10929,
+  "friendAdd": 2
+ },
+ "2025-07-11": {
+  "date": "2025-07-11",
+  "friendCount": 10933,
+  "friendAdd": 5
+ },
+ "2025-07-12": {
+  "date": "2025-07-12",
+  "friendCount": 10933,
+  "friendAdd": 2
+ },
+ "2025-07-13": {
+  "date": "2025-07-13",
+  "friendCount": 10935,
+  "friendAdd": 4
+ },
+ "2025-07-14": {
+  "date": "2025-07-14",
+  "friendCount": 10937,
+  "friendAdd": 2
+ },
+ "2025-07-15": {
+  "date": "2025-07-15",
+  "friendCount": 10939,
+  "friendAdd": 2
+ },
+ "2025-07-16": {
+  "date": "2025-07-16",
+  "friendCount": 10935,
+  "friendAdd": 7
+ },
+ "2025-07-17": {
+  "date": "2025-07-17",
+  "friendCount": 10938,
+  "friendAdd": 3
+ },
+ "2025-07-18": {
+  "date": "2025-07-18",
+  "friendCount": 10939,
+  "friendAdd": 3
+ },
+ "2025-07-19": {
+  "date": "2025-07-19",
+  "friendCount": 10942,
+  "friendAdd": 3
+ },
+ "2025-07-20": {
+  "date": "2025-07-20",
+  "friendCount": 10943,
+  "friendAdd": 1
+ },
+ "2025-07-21": {
+  "date": "2025-07-21",
+  "friendCount": 10942,
+  "friendAdd": 1
+ },
+ "2025-07-22": {
+  "date": "2025-07-22",
+  "friendCount": 10942,
+  "friendAdd": 1
+ },
+ "2025-07-23": {
+  "date": "2025-07-23",
+  "friendCount": 10939,
+  "friendAdd": 2
+ },
+ "2025-07-24": {
+  "date": "2025-07-24",
+  "friendCount": 10937,
+  "friendAdd": 1
+ },
+ "2025-07-25": {
+  "date": "2025-07-25",
+  "friendCount": 10939,
+  "friendAdd": 3
+ },
+ "2025-07-26": {
+  "date": "2025-07-26",
+  "friendCount": 10940,
+  "friendAdd": 1
+ },
+ "2025-07-27": {
+  "date": "2025-07-27",
+  "friendCount": 10940,
+  "friendAdd": 2
+ },
+ "2025-07-28": {
+  "date": "2025-07-28",
+  "friendCount": 10940,
+  "friendAdd": 1
+ },
+ "2025-07-29": {
+  "date": "2025-07-29",
+  "friendCount": 10943,
+  "friendAdd": 5
+ },
+ "2025-07-30": {
+  "date": "2025-07-30",
+  "friendCount": 10939,
+  "friendAdd": 4
+ },
+ "2025-07-31": {
+  "date": "2025-07-31",
+  "friendCount": 10938,
+  "friendAdd": 5
+ },
+ "2025-08-01": {
+  "date": "2025-08-01",
+  "friendCount": 10948,
+  "friendAdd": 11
+ },
+ "2025-08-02": {
+  "date": "2025-08-02",
+  "friendCount": 10949,
+  "friendAdd": 2
+ },
+ "2025-08-03": {
+  "date": "2025-08-03",
+  "friendCount": 10951,
+  "friendAdd": 2
+ },
+ "2025-08-04": {
+  "date": "2025-08-04",
+  "friendCount": 10945,
+  "friendAdd": 2
+ },
+ "2025-08-05": {
+  "date": "2025-08-05",
+  "friendCount": 10942,
+  "friendAdd": 0
+ },
+ "2025-08-06": {
+  "date": "2025-08-06",
+  "friendCount": 10939,
+  "friendAdd": 6
+ },
+ "2025-08-07": {
+  "date": "2025-08-07",
+  "friendCount": 10938,
+  "friendAdd": 3
+ },
+ "2025-08-08": {
+  "date": "2025-08-08",
+  "friendCount": 10939,
+  "friendAdd": 1
+ },
+ "2025-08-09": {
+  "date": "2025-08-09",
+  "friendCount": 10938,
+  "friendAdd": 1
+ },
+ "2025-08-10": {
+  "date": "2025-08-10",
+  "friendCount": 10940,
+  "friendAdd": 2
+ },
+ "2025-08-11": {
+  "date": "2025-08-11",
+  "friendCount": 10939,
+  "friendAdd": 2
+ },
+ "2025-08-12": {
+  "date": "2025-08-12",
+  "friendCount": 10940,
+  "friendAdd": 2
+ },
+ "2025-08-13": {
+  "date": "2025-08-13",
+  "friendCount": 10929,
+  "friendAdd": 1
+ },
+ "2025-08-14": {
+  "date": "2025-08-14",
+  "friendCount": 10929,
+  "friendAdd": 5
+ },
+ "2025-08-15": {
+  "date": "2025-08-15",
+  "friendCount": 10930,
+  "friendAdd": 1
+ },
+ "2025-08-16": {
+  "date": "2025-08-16",
+  "friendCount": 10931,
+  "friendAdd": 1
+ },
+ "2025-08-17": {
+  "date": "2025-08-17",
+  "friendCount": 10931,
+  "friendAdd": 2
+ },
+ "2025-08-18": {
+  "date": "2025-08-18",
+  "friendCount": 10935,
+  "friendAdd": 4
+ },
+ "2025-08-19": {
+  "date": "2025-08-19",
+  "friendCount": 10941,
+  "friendAdd": 6
+ },
+ "2025-08-20": {
+  "date": "2025-08-20",
+  "friendCount": 10942,
+  "friendAdd": 10
+ },
+ "2025-08-21": {
+  "date": "2025-08-21",
+  "friendCount": 10940,
+  "friendAdd": 1
+ },
+ "2025-08-22": {
+  "date": "2025-08-22",
+  "friendCount": 10937,
+  "friendAdd": 2
+ },
+ "2025-08-23": {
+  "date": "2025-08-23",
+  "friendCount": 10938,
+  "friendAdd": 1
+ },
+ "2025-08-24": {
+  "date": "2025-08-24",
+  "friendCount": 10938,
+  "friendAdd": 1
+ },
+ "2025-08-25": {
+  "date": "2025-08-25",
+  "friendCount": 10930,
+  "friendAdd": 0
+ },
+ "2025-08-26": {
+  "date": "2025-08-26",
+  "friendCount": 10933,
+  "friendAdd": 4
+ },
+ "2025-08-27": {
+  "date": "2025-08-27",
+  "friendCount": 10924,
+  "friendAdd": 1
+ },
+ "2025-08-28": {
+  "date": "2025-08-28",
+  "friendCount": 10924,
+  "friendAdd": 1
+ },
+ "2025-08-29": {
+  "date": "2025-08-29",
+  "friendCount": 10923,
+  "friendAdd": 2
+ },
+ "2025-08-30": {
+  "date": "2025-08-30",
+  "friendCount": 10923,
+  "friendAdd": 1
+ },
+ "2025-08-31": {
+  "date": "2025-08-31",
+  "friendCount": 10922,
+  "friendAdd": 1
+ },
+ "2025-09-01": {
+  "date": "2025-09-01",
+  "friendCount": 10920,
+  "friendAdd": 0
+ },
+ "2025-09-02": {
+  "date": "2025-09-02",
+  "friendCount": 10922,
+  "friendAdd": 3
+ },
+ "2025-09-03": {
+  "date": "2025-09-03",
+  "friendCount": 10915,
+  "friendAdd": 3
+ },
+ "2025-09-04": {
+  "date": "2025-09-04",
+  "friendCount": 10917,
+  "friendAdd": 6
+ },
+ "2025-09-05": {
+  "date": "2025-09-05",
+  "friendCount": 10917,
+  "friendAdd": 1
+ },
+ "2025-09-06": {
+  "date": "2025-09-06",
+  "friendCount": 10917,
+  "friendAdd": 1
+ },
+ "2025-09-07": {
+  "date": "2025-09-07",
+  "friendCount": 10918,
+  "friendAdd": 1
+ },
+ "2025-09-08": {
+  "date": "2025-09-08",
+  "friendCount": 10919,
+  "friendAdd": 1
+ },
+ "2025-09-09": {
+  "date": "2025-09-09",
+  "friendCount": 10921,
+  "friendAdd": 3
+ },
+ "2025-09-10": {
+  "date": "2025-09-10",
+  "friendCount": 10914,
+  "friendAdd": 1
+ },
+ "2025-09-11": {
+  "date": "2025-09-11",
+  "friendCount": 10909,
+  "friendAdd": 1
+ },
+ "2025-09-12": {
+  "date": "2025-09-12",
+  "friendCount": 10908,
+  "friendAdd": 1
+ },
+ "2025-09-13": {
+  "date": "2025-09-13",
+  "friendCount": 10910,
+  "friendAdd": 2
+ },
+ "2025-09-14": {
+  "date": "2025-09-14",
+  "friendCount": 10909,
+  "friendAdd": 0
+ },
+ "2025-09-15": {
+  "date": "2025-09-15",
+  "friendCount": 10911,
+  "friendAdd": 4
+ },
+ "2025-09-16": {
+  "date": "2025-09-16",
+  "friendCount": 10912,
+  "friendAdd": 3
+ },
+ "2025-09-17": {
+  "date": "2025-09-17",
+  "friendCount": 10910,
+  "friendAdd": 6
+ },
+ "2025-09-18": {
+  "date": "2025-09-18",
+  "friendCount": 10910,
+  "friendAdd": 1
+ },
+ "2025-09-19": {
+  "date": "2025-09-19",
+  "friendCount": 10908,
+  "friendAdd": 0
+ },
+ "2025-09-20": {
+  "date": "2025-09-20",
+  "friendCount": 10908,
+  "friendAdd": 1
+ },
+ "2025-09-21": {
+  "date": "2025-09-21",
+  "friendCount": 10906,
+  "friendAdd": 1
+ },
+ "2025-09-22": {
+  "date": "2025-09-22",
+  "friendCount": 10907,
+  "friendAdd": 2
+ },
+ "2025-09-23": {
+  "date": "2025-09-23",
+  "friendCount": 10909,
+  "friendAdd": 3
+ },
+ "2025-09-24": {
+  "date": "2025-09-24",
+  "friendCount": 10896,
+  "friendAdd": 4
+ },
+ "2025-09-25": {
+  "date": "2025-09-25",
+  "friendCount": 10893,
+  "friendAdd": 3
+ },
+ "2025-09-26": {
+  "date": "2025-09-26",
+  "friendCount": 10891,
+  "friendAdd": 2
+ },
+ "2025-09-27": {
+  "date": "2025-09-27",
+  "friendCount": 10892,
+  "friendAdd": 2
+ },
+ "2025-09-28": {
+  "date": "2025-09-28",
+  "friendCount": 10889,
+  "friendAdd": 1
+ },
+ "2025-09-29": {
+  "date": "2025-09-29",
+  "friendCount": 10892,
+  "friendAdd": 5
+ },
+ "2025-09-30": {
+  "date": "2025-09-30",
+  "friendCount": 10889,
+  "friendAdd": 5
+ },
+ "2025-10-01": {
+  "date": "2025-10-01",
+  "friendCount": 10882,
+  "friendAdd": 10
+ },
+ "2025-10-02": {
+  "date": "2025-10-02",
+  "friendCount": 10878,
+  "friendAdd": 4
+ },
+ "2025-10-03": {
+  "date": "2025-10-03",
+  "friendCount": 10877,
+  "friendAdd": 1
+ },
+ "2025-10-04": {
+  "date": "2025-10-04",
+  "friendCount": 10875,
+  "friendAdd": 1
+ },
+ "2025-10-05": {
+  "date": "2025-10-05",
+  "friendCount": 10875,
+  "friendAdd": 0
+ },
+ "2025-10-06": {
+  "date": "2025-10-06",
+  "friendCount": 10874,
+  "friendAdd": 0
+ },
+ "2025-10-07": {
+  "date": "2025-10-07",
+  "friendCount": 10873,
+  "friendAdd": 0
+ },
+ "2025-10-08": {
+  "date": "2025-10-08",
+  "friendCount": 10873,
+  "friendAdd": 1
+ },
+ "2025-10-09": {
+  "date": "2025-10-09",
+  "friendCount": 10873,
+  "friendAdd": 2
+ },
+ "2025-10-10": {
+  "date": "2025-10-10",
+  "friendCount": 10874,
+  "friendAdd": 2
+ },
+ "2025-10-11": {
+  "date": "2025-10-11",
+  "friendCount": 10876,
+  "friendAdd": 2
+ },
+ "2025-10-12": {
+  "date": "2025-10-12",
+  "friendCount": 10876,
+  "friendAdd": 3
+ },
+ "2025-10-13": {
+  "date": "2025-10-13",
+  "friendCount": 10875,
+  "friendAdd": 2
+ },
+ "2025-10-14": {
+  "date": "2025-10-14",
+  "friendCount": 10878,
+  "friendAdd": 4
+ },
+ "2025-10-15": {
+  "date": "2025-10-15",
+  "friendCount": 10871,
+  "friendAdd": 4
+ },
+ "2025-10-16": {
+  "date": "2025-10-16",
+  "friendCount": 10875,
+  "friendAdd": 6
+ },
+ "2025-10-17": {
+  "date": "2025-10-17",
+  "friendCount": 10874,
+  "friendAdd": 4
+ },
+ "2025-10-18": {
+  "date": "2025-10-18",
+  "friendCount": 10873,
+  "friendAdd": 2
+ },
+ "2025-10-19": {
+  "date": "2025-10-19",
+  "friendCount": 10871,
+  "friendAdd": 0
+ },
+ "2025-10-20": {
+  "date": "2025-10-20",
+  "friendCount": 10872,
+  "friendAdd": 3
+ },
+ "2025-10-21": {
+  "date": "2025-10-21",
+  "friendCount": 10879,
+  "friendAdd": 8
+ },
+ "2025-10-22": {
+  "date": "2025-10-22",
+  "friendCount": 10874,
+  "friendAdd": 2
+ },
+ "2025-10-23": {
+  "date": "2025-10-23",
+  "friendCount": 10876,
+  "friendAdd": 5
+ },
+ "2025-10-24": {
+  "date": "2025-10-24",
+  "friendCount": 10875,
+  "friendAdd": 1
+ },
+ "2025-10-25": {
+  "date": "2025-10-25",
+  "friendCount": 10876,
+  "friendAdd": 2
+ },
+ "2025-10-26": {
+  "date": "2025-10-26",
+  "friendCount": 10877,
+  "friendAdd": 2
+ },
+ "2025-10-27": {
+  "date": "2025-10-27",
+  "friendCount": 10878,
+  "friendAdd": 4
+ },
+ "2025-10-28": {
+  "date": "2025-10-28",
+  "friendCount": 10880,
+  "friendAdd": 2
+ },
+ "2025-10-29": {
+  "date": "2025-10-29",
+  "friendCount": 10876,
+  "friendAdd": 6
+ },
+ "2025-10-30": {
+  "date": "2025-10-30",
+  "friendCount": 10876,
+  "friendAdd": 3
+ },
+ "2025-10-31": {
+  "date": "2025-10-31",
+  "friendCount": 10877,
+  "friendAdd": 1
+ },
+ "2025-11-01": {
+  "date": "2025-11-01",
+  "friendCount": 10877,
+  "friendAdd": 1
+ },
+ "2025-11-02": {
+  "date": "2025-11-02",
+  "friendCount": 10880,
+  "friendAdd": 5
+ },
+ "2025-11-03": {
+  "date": "2025-11-03",
+  "friendCount": 10878,
+  "friendAdd": 2
+ },
+ "2025-11-04": {
+  "date": "2025-11-04",
+  "friendCount": 10878,
+  "friendAdd": 4
+ },
+ "2025-11-05": {
+  "date": "2025-11-05",
+  "friendCount": 10871,
+  "friendAdd": 5
+ },
+ "2025-11-06": {
+  "date": "2025-11-06",
+  "friendCount": 10874,
+  "friendAdd": 6
+ },
+ "2025-11-07": {
+  "date": "2025-11-07",
+  "friendCount": 10877,
+  "friendAdd": 4
+ },
+ "2025-11-08": {
+  "date": "2025-11-08",
+  "friendCount": 10876,
+  "friendAdd": 0
+ },
+ "2025-11-09": {
+  "date": "2025-11-09",
+  "friendCount": 10877,
+  "friendAdd": 1
+ },
+ "2025-11-10": {
+  "date": "2025-11-10",
+  "friendCount": 10878,
+  "friendAdd": 1
+ },
+ "2025-11-11": {
+  "date": "2025-11-11",
+  "friendCount": 10880,
+  "friendAdd": 3
+ },
+ "2025-11-12": {
+  "date": "2025-11-12",
+  "friendCount": 10879,
+  "friendAdd": 5
+ },
+ "2025-11-13": {
+  "date": "2025-11-13",
+  "friendCount": 10878,
+  "friendAdd": 1
+ },
+ "2025-11-14": {
+  "date": "2025-11-14",
+  "friendCount": 10871,
+  "friendAdd": 6
+ },
+ "2025-11-15": {
+  "date": "2025-11-15",
+  "friendCount": 10872,
+  "friendAdd": 1
+ },
+ "2025-11-16": {
+  "date": "2025-11-16",
+  "friendCount": 10871,
+  "friendAdd": 0
+ },
+ "2025-11-17": {
+  "date": "2025-11-17",
+  "friendCount": 10871,
+  "friendAdd": 0
+ },
+ "2025-11-18": {
+  "date": "2025-11-18",
+  "friendCount": 10869,
+  "friendAdd": 1
+ },
+ "2025-11-19": {
+  "date": "2025-11-19",
+  "friendCount": 10858,
+  "friendAdd": 1
+ },
+ "2025-11-20": {
+  "date": "2025-11-20",
+  "friendCount": 10857,
+  "friendAdd": 1
+ },
+ "2025-11-21": {
+  "date": "2025-11-21",
+  "friendCount": 10858,
+  "friendAdd": 1
+ },
+ "2025-11-22": {
+  "date": "2025-11-22",
+  "friendCount": 10858,
+  "friendAdd": 1
+ },
+ "2025-11-23": {
+  "date": "2025-11-23",
+  "friendCount": 10859,
+  "friendAdd": 2
+ },
+ "2025-11-24": {
+  "date": "2025-11-24",
+  "friendCount": 10860,
+  "friendAdd": 2
+ },
+ "2025-11-25": {
+  "date": "2025-11-25",
+  "friendCount": 10861,
+  "friendAdd": 2
+ },
+ "2025-11-26": {
+  "date": "2025-11-26",
+  "friendCount": 10852,
+  "friendAdd": 2
+ },
+ "2025-11-27": {
+  "date": "2025-11-27",
+  "friendCount": 10851,
+  "friendAdd": 3
+ },
+ "2025-11-28": {
+  "date": "2025-11-28",
+  "friendCount": 10850,
+  "friendAdd": 2
+ },
+ "2025-11-29": {
+  "date": "2025-11-29",
+  "friendCount": 10849,
+  "friendAdd": 2
+ },
+ "2025-11-30": {
+  "date": "2025-11-30",
+  "friendCount": 10848,
+  "friendAdd": 1
+ },
+ "2025-12-01": {
+  "date": "2025-12-01",
+  "friendCount": 10850,
+  "friendAdd": 4
+ },
+ "2025-12-02": {
+  "date": "2025-12-02",
+  "friendCount": 10851,
+  "friendAdd": 3
+ },
+ "2025-12-03": {
+  "date": "2025-12-03",
+  "friendCount": 10838,
+  "friendAdd": 6
+ },
+ "2025-12-04": {
+  "date": "2025-12-04",
+  "friendCount": 10839,
+  "friendAdd": 3
+ },
+ "2025-12-05": {
+  "date": "2025-12-05",
+  "friendCount": 10839,
+  "friendAdd": 1
+ },
+ "2025-12-06": {
+  "date": "2025-12-06",
+  "friendCount": 10842,
+  "friendAdd": 5
+ },
+ "2025-12-07": {
+  "date": "2025-12-07",
+  "friendCount": 10846,
+  "friendAdd": 6
+ },
+ "2025-12-08": {
+  "date": "2025-12-08",
+  "friendCount": 10837,
+  "friendAdd": 5
+ },
+ "2025-12-09": {
+  "date": "2025-12-09",
+  "friendCount": 10836,
+  "friendAdd": 5
+ },
+ "2025-12-10": {
+  "date": "2025-12-10",
+  "friendCount": 10828,
+  "friendAdd": 3
+ },
+ "2025-12-11": {
+  "date": "2025-12-11",
+  "friendCount": 10837,
+  "friendAdd": 14
+ },
+ "2025-12-12": {
+  "date": "2025-12-12",
+  "friendCount": 10839,
+  "friendAdd": 3
+ },
+ "2025-12-13": {
+  "date": "2025-12-13",
+  "friendCount": 10841,
+  "friendAdd": 3
+ },
+ "2025-12-14": {
+  "date": "2025-12-14",
+  "friendCount": 10842,
+  "friendAdd": 2
+ },
+ "2025-12-15": {
+  "date": "2025-12-15",
+  "friendCount": 10844,
+  "friendAdd": 3
+ },
+ "2025-12-16": {
+  "date": "2025-12-16",
+  "friendCount": 10847,
+  "friendAdd": 4
+ },
+ "2025-12-17": {
+  "date": "2025-12-17",
+  "friendCount": 10845,
+  "friendAdd": 3
+ },
+ "2025-12-18": {
+  "date": "2025-12-18",
+  "friendCount": 10859,
+  "friendAdd": 17
+ },
+ "2025-12-19": {
+  "date": "2025-12-19",
+  "friendCount": 10860,
+  "friendAdd": 5
+ },
+ "2025-12-20": {
+  "date": "2025-12-20",
+  "friendCount": 10861,
+  "friendAdd": 2
+ },
+ "2025-12-21": {
+  "date": "2025-12-21",
+  "friendCount": 10865,
+  "friendAdd": 7
+ },
+ "2025-12-22": {
+  "date": "2025-12-22",
+  "friendCount": 10868,
+  "friendAdd": 4
+ },
+ "2025-12-23": {
+  "date": "2025-12-23",
+  "friendCount": 10869,
+  "friendAdd": 4
+ },
+ "2025-12-24": {
+  "date": "2025-12-24",
+  "friendCount": 10874,
+  "friendAdd": 13
+ },
+ "2025-12-25": {
+  "date": "2025-12-25",
+  "friendCount": 10874,
+  "friendAdd": 4
+ },
+ "2025-12-26": {
+  "date": "2025-12-26",
+  "friendCount": 10874,
+  "friendAdd": 3
+ },
+ "2025-12-27": {
+  "date": "2025-12-27",
+  "friendCount": 10877,
+  "friendAdd": 3
+ },
+ "2025-12-28": {
+  "date": "2025-12-28",
+  "friendCount": 10878,
+  "friendAdd": 4
+ },
+ "2025-12-29": {
+  "date": "2025-12-29",
+  "friendCount": 10880,
+  "friendAdd": 4
+ },
+ "2025-12-30": {
+  "date": "2025-12-30",
+  "friendCount": 10879,
+  "friendAdd": 2
+ },
+ "2025-12-31": {
+  "date": "2025-12-31",
+  "friendCount": 10880,
+  "friendAdd": 5
+ },
+ "2026-01-01": {
+  "date": "2026-01-01",
+  "friendCount": 10881,
+  "friendAdd": 1
+ },
+ "2026-01-02": {
+  "date": "2026-01-02",
+  "friendCount": 10881,
+  "friendAdd": 2
+ },
+ "2026-01-03": {
+  "date": "2026-01-03",
+  "friendCount": 10882,
+  "friendAdd": 1
+ },
+ "2026-01-04": {
+  "date": "2026-01-04",
+  "friendCount": 10884,
+  "friendAdd": 3
+ },
+ "2026-01-05": {
+  "date": "2026-01-05",
+  "friendCount": 10888,
+  "friendAdd": 8
+ },
+ "2026-01-06": {
+  "date": "2026-01-06",
+  "friendCount": 10891,
+  "friendAdd": 5
+ },
+ "2026-01-07": {
+  "date": "2026-01-07",
+  "friendCount": 10881,
+  "friendAdd": 3
+ },
+ "2026-01-08": {
+  "date": "2026-01-08",
+  "friendCount": 10882,
+  "friendAdd": 4
+ },
+ "2026-01-09": {
+  "date": "2026-01-09",
+  "friendCount": 10883,
+  "friendAdd": 4
+ },
+ "2026-01-10": {
+  "date": "2026-01-10",
+  "friendCount": 10886,
+  "friendAdd": 3
+ },
+ "2026-01-11": {
+  "date": "2026-01-11",
+  "friendCount": 10886,
+  "friendAdd": 1
+ },
+ "2026-01-12": {
+  "date": "2026-01-12",
+  "friendCount": 10888,
+  "friendAdd": 3
+ },
+ "2026-01-13": {
+  "date": "2026-01-13",
+  "friendCount": 10889,
+  "friendAdd": 4
+ },
+ "2026-01-14": {
+  "date": "2026-01-14",
+  "friendCount": 10883,
+  "friendAdd": 6
+ },
+ "2026-01-15": {
+  "date": "2026-01-15",
+  "friendCount": 10885,
+  "friendAdd": 4
+ },
+ "2026-01-16": {
+  "date": "2026-01-16",
+  "friendCount": 10888,
+  "friendAdd": 4
+ },
+ "2026-01-17": {
+  "date": "2026-01-17",
+  "friendCount": 10889,
+  "friendAdd": 2
+ },
+ "2026-01-18": {
+  "date": "2026-01-18",
+  "friendCount": 10889,
+  "friendAdd": 1
+ },
+ "2026-01-19": {
+  "date": "2026-01-19",
+  "friendCount": 10889,
+  "friendAdd": 3
+ },
+ "2026-01-20": {
+  "date": "2026-01-20",
+  "friendCount": 10891,
+  "friendAdd": 2
+ },
+ "2026-01-21": {
+  "date": "2026-01-21",
+  "friendCount": 10902,
+  "friendAdd": 17
+ },
+ "2026-01-22": {
+  "date": "2026-01-22",
+  "friendCount": 10901,
+  "friendAdd": 9
+ },
+ "2026-01-23": {
+  "date": "2026-01-23",
+  "friendCount": 10908,
+  "friendAdd": 8
+ },
+ "2026-01-24": {
+  "date": "2026-01-24",
+  "friendCount": 10912,
+  "friendAdd": 7
+ },
+ "2026-01-25": {
+  "date": "2026-01-25",
+  "friendCount": 10915,
+  "friendAdd": 5
+ },
+ "2026-01-26": {
+  "date": "2026-01-26",
+  "friendCount": 10915,
+  "friendAdd": 3
+ },
+ "2026-01-27": {
+  "date": "2026-01-27",
+  "friendCount": 10920,
+  "friendAdd": 6
+ },
+ "2026-01-28": {
+  "date": "2026-01-28",
+  "friendCount": 10908,
+  "friendAdd": 2
+ },
+ "2026-01-29": {
+  "date": "2026-01-29",
+  "friendCount": 10918,
+  "friendAdd": 17
+ },
+ "2026-01-30": {
+  "date": "2026-01-30",
+  "friendCount": 10925,
+  "friendAdd": 13
+ },
+ "2026-01-31": {
+  "date": "2026-01-31",
+  "friendCount": 10932,
+  "friendAdd": 12
+ },
+ "2026-02-01": {
+  "date": "2026-02-01",
+  "friendCount": 10935,
+  "friendAdd": 3
+ },
+ "2026-02-02": {
+  "date": "2026-02-02",
+  "friendCount": 10937,
+  "friendAdd": 5
+ },
+ "2026-02-03": {
+  "date": "2026-02-03",
+  "friendCount": 10935,
+  "friendAdd": 3
+ },
+ "2026-02-04": {
+  "date": "2026-02-04",
+  "friendCount": 10936,
+  "friendAdd": 13
+ },
+ "2026-02-05": {
+  "date": "2026-02-05",
+  "friendCount": 10939,
+  "friendAdd": 11
+ },
+ "2026-02-06": {
+  "date": "2026-02-06",
+  "friendCount": 10937,
+  "friendAdd": 8
+ },
+ "2026-02-07": {
+  "date": "2026-02-07",
+  "friendCount": 10939,
+  "friendAdd": 5
+ },
+ "2026-02-08": {
+  "date": "2026-02-08",
+  "friendCount": 10940,
+  "friendAdd": 3
+ },
+ "2026-02-09": {
+  "date": "2026-02-09",
+  "friendCount": 10938,
+  "friendAdd": 1
+ },
+ "2026-02-10": {
+  "date": "2026-02-10",
+  "friendCount": 10943,
+  "friendAdd": 8
+ },
+ "2026-02-11": {
+  "date": "2026-02-11",
+  "friendCount": 10938,
+  "friendAdd": 8
+ },
+ "2026-02-12": {
+  "date": "2026-02-12",
+  "friendCount": 10938,
+  "friendAdd": 4
+ },
+ "2026-02-13": {
+  "date": "2026-02-13",
+  "friendCount": 10935,
+  "friendAdd": 4
+ },
+ "2026-02-14": {
+  "date": "2026-02-14",
+  "friendCount": 10934,
+  "friendAdd": 1
+ },
+ "2026-02-15": {
+  "date": "2026-02-15",
+  "friendCount": 10932,
+  "friendAdd": 1
+ },
+ "2026-02-16": {
+  "date": "2026-02-16",
+  "friendCount": 10930,
+  "friendAdd": 0
+ },
+ "2026-02-17": {
+  "date": "2026-02-17",
+  "friendCount": 10931,
+  "friendAdd": 1
+ },
+ "2026-02-18": {
+  "date": "2026-02-18",
+  "friendCount": 10931,
+  "friendAdd": 0
+ },
+ "2026-02-19": {
+  "date": "2026-02-19",
+  "friendCount": 10928,
+  "friendAdd": 1
+ },
+ "2026-02-20": {
+  "date": "2026-02-20",
+  "friendCount": 10929,
+  "friendAdd": 2
+ },
+ "2026-02-21": {
+  "date": "2026-02-21",
+  "friendCount": 10929,
+  "friendAdd": 0
+ },
+ "2026-02-22": {
+  "date": "2026-02-22",
+  "friendCount": 10927,
+  "friendAdd": 0
+ },
+ "2026-02-23": {
+  "date": "2026-02-23",
+  "friendCount": 10929,
+  "friendAdd": 2
+ },
+ "2026-02-24": {
+  "date": "2026-02-24",
+  "friendCount": 10929,
+  "friendAdd": 1
+ },
+ "2026-02-25": {
+  "date": "2026-02-25",
+  "friendCount": 10914,
+  "friendAdd": 5
+ },
+ "2026-02-26": {
+  "date": "2026-02-26",
+  "friendCount": 10914,
+  "friendAdd": 6
+ },
+ "2026-02-27": {
+  "date": "2026-02-27",
+  "friendCount": 10902,
+  "friendAdd": 4
+ },
+ "2026-02-28": {
+  "date": "2026-02-28",
+  "friendCount": 10902,
+  "friendAdd": 1
+ },
+ "2026-03-01": {
+  "date": "2026-03-01",
+  "friendCount": 10899,
+  "friendAdd": 2
+ },
+ "2026-03-02": {
+  "date": "2026-03-02",
+  "friendCount": 10898,
+  "friendAdd": 3
+ },
+ "2026-03-03": {
+  "date": "2026-03-03",
+  "friendCount": 10899,
+  "friendAdd": 4
+ },
+ "2026-03-04": {
+  "date": "2026-03-04",
+  "friendCount": 10893,
+  "friendAdd": 4
+ },
+ "2026-03-05": {
+  "date": "2026-03-05",
+  "friendCount": 10900,
+  "friendAdd": 8
+ },
+ "2026-03-06": {
+  "date": "2026-03-06",
+  "friendCount": 10902,
+  "friendAdd": 4
+ },
+ "2026-03-07": {
+  "date": "2026-03-07",
+  "friendCount": 10906,
+  "friendAdd": 6
+ },
+ "2026-03-08": {
+  "date": "2026-03-08",
+  "friendCount": 10913,
+  "friendAdd": 9
+ },
+ "2026-03-09": {
+  "date": "2026-03-09",
+  "friendCount": 10913,
+  "friendAdd": 3
+ },
+ "2026-03-10": {
+  "date": "2026-03-10",
+  "friendCount": 10914,
+  "friendAdd": 5
+ },
+ "2026-03-11": {
+  "date": "2026-03-11",
+  "friendCount": 10907,
+  "friendAdd": 7
+ },
+ "2026-03-12": {
+  "date": "2026-03-12",
+  "friendCount": 10910,
+  "friendAdd": 6
+ },
+ "2026-03-13": {
+  "date": "2026-03-13",
+  "friendCount": 10912,
+  "friendAdd": 3
+ },
+ "2026-03-14": {
+  "date": "2026-03-14",
+  "friendCount": 10912,
+  "friendAdd": 1
+ },
+ "2026-03-15": {
+  "date": "2026-03-15",
+  "friendCount": 10913,
+  "friendAdd": 1
+ },
+ "2026-03-16": {
+  "date": "2026-03-16",
+  "friendCount": 10916,
+  "friendAdd": 4
+ },
+ "2026-03-17": {
+  "date": "2026-03-17",
+  "friendCount": 10915,
+  "friendAdd": 1
+ },
+ "2026-03-18": {
+  "date": "2026-03-18",
+  "friendCount": 10911,
+  "friendAdd": 4
+ },
+ "2026-03-19": {
+  "date": "2026-03-19",
+  "friendCount": 10907,
+  "friendAdd": 4
+ },
+ "2026-03-20": {
+  "date": "2026-03-20",
+  "friendCount": 10900,
+  "friendAdd": 3
+ },
+ "2026-03-21": {
+  "date": "2026-03-21",
+  "friendCount": 10901,
+  "friendAdd": 3
+ },
+ "2026-03-22": {
+  "date": "2026-03-22",
+  "friendCount": 10903,
+  "friendAdd": 6
+ },
+ "2026-03-23": {
+  "date": "2026-03-23",
+  "friendCount": 10904,
+  "friendAdd": 3
+ },
+ "2026-03-24": {
+  "date": "2026-03-24",
+  "friendCount": 10909,
+  "friendAdd": 7
+ },
+ "2026-03-25": {
+  "date": "2026-03-25",
+  "friendCount": 10900,
+  "friendAdd": 3
+ },
+ "2026-03-26": {
+  "date": "2026-03-26",
+  "friendCount": 10902,
+  "friendAdd": 2
+ },
+ "2026-03-27": {
+  "date": "2026-03-27",
+  "friendCount": 10902,
+  "friendAdd": 1
+ },
+ "2026-03-28": {
+  "date": "2026-03-28",
+  "friendCount": 10902,
+  "friendAdd": 2
+ },
+ "2026-03-29": {
+  "date": "2026-03-29",
+  "friendCount": 10902,
+  "friendAdd": 3
+ },
+ "2026-03-30": {
+  "date": "2026-03-30",
+  "friendCount": 10902,
+  "friendAdd": 1
+ },
+ "2026-03-31": {
+  "date": "2026-03-31",
+  "friendCount": 10902,
+  "friendAdd": 4
+ },
+ "2026-04-01": {
+  "date": "2026-04-01",
+  "friendCount": 10890,
+  "friendAdd": 3
+ },
+ "2026-04-02": {
+  "date": "2026-04-02",
+  "friendCount": 10893,
+  "friendAdd": 3
+ },
+ "2026-04-03": {
+  "date": "2026-04-03",
+  "friendCount": 10890,
+  "friendAdd": 3
+ },
+ "2026-04-04": {
+  "date": "2026-04-04",
+  "friendCount": 10893,
+  "friendAdd": 3
+ },
+ "2026-04-05": {
+  "date": "2026-04-05",
+  "friendCount": 10894,
+  "friendAdd": 2
+ },
+ "2026-04-06": {
+  "date": "2026-04-06",
+  "friendCount": 10890,
+  "friendAdd": 0
+ },
+ "2026-04-07": {
+  "date": "2026-04-07",
+  "friendCount": 10896,
+  "friendAdd": 7
+ },
+ "2026-04-08": {
+  "date": "2026-04-08",
+  "friendCount": 10890,
+  "friendAdd": 2
+ },
+ "2026-04-09": {
+  "date": "2026-04-09",
+  "friendCount": 10892,
+  "friendAdd": 4
+ },
+ "2026-04-10": {
+  "date": "2026-04-10",
+  "friendCount": 10894,
+  "friendAdd": 5
+ },
+ "2026-04-11": {
+  "date": "2026-04-11",
+  "friendCount": 10894,
+  "friendAdd": 2
+ },
+ "2026-04-12": {
+  "date": "2026-04-12",
+  "friendCount": 10896,
+  "friendAdd": 3
+ },
+ "2026-04-13": {
+  "date": "2026-04-13",
+  "friendCount": 10901,
+  "friendAdd": 7
+ },
+ "2026-04-14": {
+  "date": "2026-04-14",
+  "friendCount": 10934,
+  "friendAdd": 37
+ },
+ "2026-04-15": {
+  "date": "2026-04-15",
+  "friendCount": 10938,
+  "friendAdd": 12
+ },
+ "2026-04-16": {
+  "date": "2026-04-16",
+  "friendCount": 10946,
+  "friendAdd": 11
+ },
+ "2026-04-17": {
+  "date": "2026-04-17",
+  "friendCount": 10948,
+  "friendAdd": 4
+ },
+ "2026-04-18": {
+  "date": "2026-04-18",
+  "friendCount": 10950,
+  "friendAdd": 3
+ },
+ "2026-04-19": {
+  "date": "2026-04-19",
+  "friendCount": 10949,
+  "friendAdd": 0
+ },
+ "2026-04-20": {
+  "date": "2026-04-20",
+  "friendCount": 10951,
+  "friendAdd": 3
+ },
+ "2026-04-21": {
+  "date": "2026-04-21",
+  "friendCount": 10952,
+  "friendAdd": 3
+ },
+ "2026-04-22": {
+  "date": "2026-04-22",
+  "friendCount": 10957,
+  "friendAdd": 11
+ },
+ "2026-04-23": {
+  "date": "2026-04-23",
+  "friendCount": 10959,
+  "friendAdd": 7
+ },
+ "2026-04-24": {
+  "date": "2026-04-24",
+  "friendCount": 10966,
+  "friendAdd": 9
+ },
+ "2026-04-25": {
+  "date": "2026-04-25",
+  "friendCount": 10970,
+  "friendAdd": 5
+ },
+ "2026-04-26": {
+  "date": "2026-04-26",
+  "friendCount": 10980,
+  "friendAdd": 11
+ },
+ "2026-04-27": {
+  "date": "2026-04-27",
+  "friendCount": 10986,
+  "friendAdd": 7
+ },
+ "2026-04-28": {
+  "date": "2026-04-28",
+  "friendCount": 10991,
+  "friendAdd": 6
+ },
+ "2026-04-29": {
+  "date": "2026-04-29",
+  "friendCount": 10986,
+  "friendAdd": 5
+ },
+ "2026-04-30": {
+  "date": "2026-04-30",
+  "friendCount": 10985,
+  "friendAdd": 2
+ },
+ "2026-05-01": {
+  "date": "2026-05-01",
+  "friendCount": 10990,
+  "friendAdd": 5
+ },
+ "2026-05-02": {
+  "date": "2026-05-02",
+  "friendCount": 10992,
+  "friendAdd": 4
+ },
+ "2026-05-03": {
+  "date": "2026-05-03",
+  "friendCount": 10999,
+  "friendAdd": 8
+ },
+ "2026-05-04": {
+  "date": "2026-05-04",
+  "friendCount": 11001,
+  "friendAdd": 5
+ },
+ "2026-05-05": {
+  "date": "2026-05-05",
+  "friendCount": 11000,
+  "friendAdd": 1
+ },
+ "2026-05-06": {
+  "date": "2026-05-06",
+  "friendCount": 10992,
+  "friendAdd": 2
+ },
+ "2026-05-07": {
+  "date": "2026-05-07",
+  "friendCount": 10988,
+  "friendAdd": 2
+ },
+ "2026-05-08": {
+  "date": "2026-05-08",
+  "friendCount": 10988,
+  "friendAdd": 1
+ },
+ "2026-05-09": {
+  "date": "2026-05-09",
+  "friendCount": 10986,
+  "friendAdd": 2
+ },
+ "2026-05-10": {
+  "date": "2026-05-10",
+  "friendCount": 10989,
+  "friendAdd": 4
+ },
+ "2026-05-11": {
+  "date": "2026-05-11",
+  "friendCount": 10993,
+  "friendAdd": 6
+ },
+ "2026-05-12": {
+  "date": "2026-05-12",
+  "friendCount": 10992,
+  "friendAdd": 3
+ },
+ "2026-05-13": {
+  "date": "2026-05-13",
+  "friendCount": 10985,
+  "friendAdd": 1
+ },
+ "2026-05-14": {
+  "date": "2026-05-14",
+  "friendCount": 10984,
+  "friendAdd": 2
+ },
+ "2026-05-15": {
+  "date": "2026-05-15",
+  "friendCount": 10984,
+  "friendAdd": 2
+ },
+ "2026-05-16": {
+  "date": "2026-05-16",
+  "friendCount": 10983,
+  "friendAdd": 2
+ },
+ "2026-05-17": {
+  "date": "2026-05-17",
+  "friendCount": 10983,
+  "friendAdd": 1
+ },
+ "2026-05-18": {
+  "date": "2026-05-18",
+  "friendCount": 10986,
+  "friendAdd": 3
+ },
+ "2026-05-19": {
+  "date": "2026-05-19",
+  "friendCount": 10981,
+  "friendAdd": 1
+ },
+ "2026-05-20": {
+  "date": "2026-05-20",
+  "friendCount": 10982,
+  "friendAdd": 7
+ },
+ "2026-05-21": {
+  "date": "2026-05-21",
+  "friendCount": 10980,
+  "friendAdd": 6
+ },
+ "2026-05-22": {
+  "date": "2026-05-22",
+  "friendCount": 10981,
+  "friendAdd": 2
+ },
+ "2026-05-23": {
+  "date": "2026-05-23",
+  "friendCount": 10981,
+  "friendAdd": 0
+ },
+ "2026-05-24": {
+  "date": "2026-05-24",
+  "friendCount": 10978,
+  "friendAdd": 0
+ },
+ "2026-05-25": {
+  "date": "2026-05-25",
+  "friendCount": 10978,
+  "friendAdd": 2
+ },
+ "2026-05-26": {
+  "date": "2026-05-26",
+  "friendCount": 10980,
+  "friendAdd": 2
+ },
+ "2026-05-27": {
+  "date": "2026-05-27",
+  "friendCount": 10976,
+  "friendAdd": 3
+ },
+ "2026-05-28": {
+  "date": "2026-05-28",
+  "friendCount": 10975,
+  "friendAdd": 1
+ },
+ "2026-05-29": {
+  "date": "2026-05-29",
+  "friendCount": 10977,
+  "friendAdd": 3
+ },
+ "2026-05-30": {
+  "date": "2026-05-30",
+  "friendCount": 10975,
+  "friendAdd": 0
+ },
+ "2026-05-31": {
+  "date": "2026-05-31",
+  "friendCount": 10975,
+  "friendAdd": 1
+ },
+ "2026-06-01": {
+  "date": "2026-06-01",
+  "friendCount": 10977,
+  "friendAdd": 3
+ },
+ "2026-06-02": {
+  "date": "2026-06-02",
+  "friendCount": 10982,
+  "friendAdd": 5
+ },
+ "2026-06-03": {
+  "date": "2026-06-03",
+  "friendCount": 10981,
+  "friendAdd": 1
+ },
+ "2026-06-04": {
+  "date": "2026-06-04",
+  "friendCount": 10980,
+  "friendAdd": 0
+ },
+ "2026-06-05": {
+  "date": "2026-06-05",
+  "friendCount": 10996,
+  "friendAdd": 17
+ },
+ "2026-06-06": {
+  "date": "2026-06-06",
+  "friendCount": 10998,
+  "friendAdd": 3
+ },
+ "2026-06-07": {
+  "date": "2026-06-07",
+  "friendCount": 11000,
+  "friendAdd": 3
+ },
+ "2026-06-08": {
+  "date": "2026-06-08",
+  "friendCount": 11001,
+  "friendAdd": 2
+ },
+ "2026-06-09": {
+  "date": "2026-06-09",
+  "friendCount": 11002,
+  "friendAdd": 2
+ },
+ "2026-06-10": {
+  "date": "2026-06-10",
+  "friendCount": 10994,
+  "friendAdd": 1
+ },
+ "2026-06-11": {
+  "date": "2026-06-11",
+  "friendCount": 10995,
+  "friendAdd": 5
+ },
+ "2026-06-12": {
+  "date": "2026-06-12",
+  "friendCount": 10994,
+  "friendAdd": 1
+ },
+ "2026-06-13": {
+  "date": "2026-06-13",
+  "friendCount": 10996,
+  "friendAdd": 2
+ },
+ "2026-06-14": {
+  "date": "2026-06-14",
+  "friendCount": 10996,
+  "friendAdd": 1
+ },
+ "2026-06-15": {
+  "date": "2026-06-15",
+  "friendCount": 10997,
+  "friendAdd": 1
+ },
+ "2026-06-16": {
+  "date": "2026-06-16",
+  "friendCount": 11000,
+  "friendAdd": 3
+ },
+ "2026-06-17": {
+  "date": "2026-06-17",
+  "friendCount": 10990,
+  "friendAdd": 3
+ },
+ "2026-06-18": {
+  "date": "2026-06-18",
+  "friendCount": 10988,
+  "friendAdd": 1
+ },
+ "2026-06-19": {
+  "date": "2026-06-19",
+  "friendCount": 10993,
+  "friendAdd": 5
+ },
+ "2026-06-20": {
+  "date": "2026-06-20",
+  "friendCount": 10993,
+  "friendAdd": 1
+ },
+ "2026-06-21": {
+  "date": "2026-06-21",
+  "friendCount": 10992,
+  "friendAdd": 1
+ },
+ "2026-06-22": {
+  "date": "2026-06-22",
+  "friendCount": 10999,
+  "friendAdd": 6
+ },
+ "2026-06-23": {
+  "date": "2026-06-23",
+  "friendCount": 11002,
+  "friendAdd": 5
+ },
+ "2026-06-24": {
+  "date": "2026-06-24",
+  "friendCount": 10994,
+  "friendAdd": 7
+ },
+ "2026-06-25": {
+  "date": "2026-06-25",
+  "friendCount": 10995,
+  "friendAdd": 4
+ },
+ "2026-06-26": {
+  "date": "2026-06-26",
+  "friendCount": 10996,
+  "friendAdd": 2
+ },
+ "2026-06-27": {
+  "date": "2026-06-27",
+  "friendCount": 10998,
+  "friendAdd": 2
+ },
+ "2026-06-28": {
+  "date": "2026-06-28",
+  "friendCount": 10999,
+  "friendAdd": 2
+ },
+ "2026-06-29": {
+  "date": "2026-06-29",
+  "friendCount": 10999,
+  "friendAdd": 4
+ },
+ "2026-06-30": {
+  "date": "2026-06-30",
+  "friendCount": 10998,
+  "friendAdd": 2
+ },
+ "2026-07-01": {
+  "date": "2026-07-01",
+  "friendCount": 11009,
+  "friendAdd": 22
+ },
+ "2026-07-02": {
+  "date": "2026-07-02",
+  "friendCount": 11010,
+  "friendAdd": 3
+ },
+ "2026-07-03": {
+  "date": "2026-07-03",
+  "friendCount": 11015,
+  "friendAdd": 6
+ },
+ "2026-07-04": {
+  "date": "2026-07-04",
+  "friendCount": 11015,
+  "friendAdd": 1
+ },
+ "2026-07-05": {
+  "date": "2026-07-05",
+  "friendCount": 11015,
+  "friendAdd": 1
+ },
+ "2026-07-06": {
+  "date": "2026-07-06",
+  "friendCount": 11018,
+  "friendAdd": 3
+ },
+ "2026-07-07": {
+  "date": "2026-07-07",
+  "friendCount": 11022,
+  "friendAdd": 6
+ },
+ "2026-07-08": {
+  "date": "2026-07-08",
+  "friendCount": 11022,
+  "friendAdd": 2
+ },
+ "2026-07-09": {
+  "date": "2026-07-09",
+  "friendCount": 11022,
+  "friendAdd": 1
+ },
+ "2026-07-10": {
+  "date": "2026-07-10",
+  "friendCount": 11024,
+  "friendAdd": 4
+ },
+ "2026-07-11": {
+  "date": "2026-07-11",
+  "friendCount": 11025,
+  "friendAdd": 1
+ },
+ "2026-07-12": {
+  "date": "2026-07-12",
+  "friendCount": 11027,
+  "friendAdd": 2
+ },
+ "2026-07-13": {
+  "date": "2026-07-13",
+  "friendCount": 11028,
+  "friendAdd": 2
+ },
+ "2026-07-14": {
+  "date": "2026-07-14",
+  "friendCount": 11031,
+  "friendAdd": 3
+ },
+ "2026-07-15": {
+  "date": "2026-07-15",
+  "friendCount": 11027,
+  "friendAdd": 9
+ },
+ "2026-07-16": {
+  "date": "2026-07-16",
+  "friendCount": 11027,
+  "friendAdd": 2
+ },
+ "2026-07-17": {
+  "date": "2026-07-17",
+  "friendCount": 11026,
+  "friendAdd": 0
+ },
+ "2026-07-18": {
+  "date": "2026-07-18",
+  "friendCount": 11026,
+  "friendAdd": 1
+ },
+ "2026-07-19": {
+  "date": "2026-07-19",
+  "friendCount": 11026,
+  "friendAdd": 0
+ },
+ "2026-07-20": {
+  "date": "2026-07-20",
+  "friendCount": 11027,
+  "friendAdd": 1
+ },
+ "2026-07-21": {
+  "date": "2026-07-21",
+  "friendCount": 11027,
+  "friendAdd": 0
+ },
+ "2026-07-22": {
+  "date": "2026-07-22",
+  "friendCount": 11018,
+  "friendAdd": 3
+ },
+ "2026-07-23": {
+  "date": "2026-07-23",
+  "friendCount": 11015,
+  "friendAdd": 1
+ },
+ "2026-07-24": {
+  "date": "2026-07-24",
+  "friendCount": 11016,
+  "friendAdd": 3
+ },
+ "2026-07-25": {
+  "date": "2026-07-25",
+  "friendCount": 11015,
+  "friendAdd": 0
+ },
+ "2026-07-26": {
+  "date": "2026-07-26",
+  "friendCount": 11013,
+  "friendAdd": 0
+ },
+ "2026-07-27": {
+  "date": "2026-07-27",
+  "friendCount": 11012,
+  "friendAdd": 2
+ },
+ "2026-07-28": {
+  "date": "2026-07-28",
+  "friendCount": 11015,
+  "friendAdd": 5
+ },
+ "2026-07-29": {
+  "date": "2026-07-29",
+  "friendCount": 11003,
+  "friendAdd": 4
+ },
+ "2026-07-30": {
+  "date": "2026-07-30",
+  "friendCount": 11001,
+  "friendAdd": 3
+ },
+ "2026-07-31": {
+  "date": "2026-07-31",
+  "friendCount": 11004,
+  "friendAdd": 4
+ },
+ "2026-08-01": {
+  "date": "2026-08-01",
+  "friendCount": 11004,
+  "friendAdd": 3
+ },
+ "2026-08-02": {
+  "date": "2026-08-02",
+  "friendCount": 11005,
+  "friendAdd": 0
+ },
+ "2026-08-03": {
+  "date": "2026-08-03",
+  "friendCount": 11008,
+  "friendAdd": 4
+ },
+ "2026-08-04": {
+  "date": "2026-08-04",
+  "friendCount": 11009,
+  "friendAdd": 2
+ },
+ "2026-08-05": {
+  "date": "2026-08-05",
+  "friendCount": 11008,
+  "friendAdd": 5
+ },
+ "2026-08-06": {
+  "date": "2026-08-06",
+  "friendCount": 11014,
+  "friendAdd": 7
+ },
+ "2026-08-07": {
+  "date": "2026-08-07",
+  "friendCount": 11016,
+  "friendAdd": 2
+ },
+ "2026-08-08": {
+  "date": "2026-08-08",
+  "friendCount": 11015,
+  "friendAdd": 0
+ },
+ "2026-08-09": {
+  "date": "2026-08-09",
+  "friendCount": 11015,
+  "friendAdd": 0
+ },
+ "2026-08-10": {
+  "date": "2026-08-10",
+  "friendCount": 11016,
+  "friendAdd": 1
+ },
+ "2026-08-11": {
+  "date": "2026-08-11",
+  "friendCount": 11017,
+  "friendAdd": 1
+ },
+ "2026-08-12": {
+  "date": "2026-08-12",
+  "friendCount": 11009,
+  "friendAdd": 2
+ },
+ "2026-08-13": {
+  "date": "2026-08-13",
+  "friendCount": 11010,
+  "friendAdd": 1
+ },
+ "2026-08-14": {
+  "date": "2026-08-14",
+  "friendCount": 11010,
+  "friendAdd": 1
+ },
+ "2026-08-15": {
+  "date": "2026-08-15",
+  "friendCount": 11008,
+  "friendAdd": 0
+ },
+ "2026-08-16": {
+  "date": "2026-08-16",
+  "friendCount": 11007,
+  "friendAdd": 2
+ },
+ "2026-08-17": {
+  "date": "2026-08-17",
+  "friendCount": 11007,
+  "friendAdd": 1
+ },
+ "2026-08-18": {
+  "date": "2026-08-18",
+  "friendCount": 11007,
+  "friendAdd": 0
+ },
+ "2026-08-19": {
+  "date": "2026-08-19",
+  "friendCount": 11000,
+  "friendAdd": 1
+ },
+ "2026-08-20": {
+  "date": "2026-08-20",
+  "friendCount": 11003,
+  "friendAdd": 4
+ },
+ "2026-08-21": {
+  "date": "2026-08-21",
+  "friendCount": 11002,
+  "friendAdd": 1
+ },
+ "2026-08-22": {
+  "date": "2026-08-22",
+  "friendCount": 11001,
+  "friendAdd": 0
+ },
+ "2026-08-23": {
+  "date": "2026-08-23",
+  "friendCount": 11001,
+  "friendAdd": 0
+ },
+ "2026-08-24": {
+  "date": "2026-08-24",
+  "friendCount": 10999,
+  "friendAdd": 2
+ },
+ "2026-08-25": {
+  "date": "2026-08-25",
+  "friendCount": 11000,
+  "friendAdd": 1
+ },
+ "2026-08-26": {
+  "date": "2026-08-26",
+  "friendCount": 10994,
+  "friendAdd": 3
+ },
+ "2026-08-27": {
+  "date": "2026-08-27",
+  "friendCount": 10995,
+  "friendAdd": 4
+ },
+ "2026-08-28": {
+  "date": "2026-08-28",
+  "friendCount": 10994,
+  "friendAdd": 2
+ },
+ "2026-08-29": {
+  "date": "2026-08-29",
+  "friendCount": 10995,
+  "friendAdd": 1
+ },
+ "2026-08-30": {
+  "date": "2026-08-30",
+  "friendCount": 10995,
+  "friendAdd": 0
+ },
+ "2026-08-31": {
+  "date": "2026-08-31",
+  "friendCount": 10995,
+  "friendAdd": 1
+ },
+ "2026-09-01": {
+  "date": "2026-09-01",
+  "friendCount": 10992,
+  "friendAdd": 2
+ },
+ "2026-09-02": {
+  "date": "2026-09-02",
+  "friendCount": 10990,
+  "friendAdd": 5
+ },
+ "2026-09-03": {
+  "date": "2026-09-03",
+  "friendCount": 10992,
+  "friendAdd": 3
+ },
+ "2026-09-04": {
+  "date": "2026-09-04",
+  "friendCount": 10990,
+  "friendAdd": 0
+ },
+ "2026-09-05": {
+  "date": "2026-09-05",
+  "friendCount": 10991,
+  "friendAdd": 2
+ },
+ "2026-09-06": {
+  "date": "2026-09-06",
+  "friendCount": 10991,
+  "friendAdd": 1
+ },
+ "2026-09-07": {
+  "date": "2026-09-07",
+  "friendCount": 10989,
+  "friendAdd": 0
+ },
+ "2026-09-08": {
+  "date": "2026-09-08",
+  "friendCount": 10989,
+  "friendAdd": 0
+ },
+ "2026-09-09": {
+  "date": "2026-09-09",
+  "friendCount": 10985,
+  "friendAdd": 2
+ },
+ "2026-09-10": {
+  "date": "2026-09-10",
+  "friendCount": 10981,
+  "friendAdd": 0
+ },
+ "2026-09-11": {
+  "date": "2026-09-11",
+  "friendCount": 10992,
+  "friendAdd": 13
+ },
+ "2026-09-12": {
+  "date": "2026-09-12",
+  "friendCount": 11009,
+  "friendAdd": 18
+ },
+ "2026-09-13": {
+  "date": "2026-09-13",
+  "friendCount": 11010,
+  "friendAdd": 6
+ },
+ "2026-09-14": {
+  "date": "2026-09-14",
+  "friendCount": 11025,
+  "friendAdd": 16
+ },
+ "2026-09-15": {
+  "date": "2026-09-15",
+  "friendCount": 11040,
+  "friendAdd": 16
+ },
+ "2026-09-16": {
+  "date": "2026-09-16",
+  "friendCount": 11043,
+  "friendAdd": 14
+ },
+ "2026-09-17": {
+  "date": "2026-09-17",
+  "friendCount": 11040,
+  "friendAdd": 1
+ },
+ "2026-09-18": {
+  "date": "2026-09-18",
+  "friendCount": 11033,
+  "friendAdd": 7
+ },
+ "2026-09-19": {
+  "date": "2026-09-19",
+  "friendCount": 11036,
+  "friendAdd": 5
+ },
+ "2026-09-20": {
+  "date": "2026-09-20",
+  "friendCount": 11040,
+  "friendAdd": 4
+ },
+ "2026-09-21": {
+  "date": "2026-09-21",
+  "friendCount": 11044,
+  "friendAdd": 7
+ },
+ "2026-09-22": {
+  "date": "2026-09-22",
+  "friendCount": 11059,
+  "friendAdd": 17
+ },
+ "2026-09-23": {
+  "date": "2026-09-23",
+  "friendCount": 11051,
+  "friendAdd": 8
+ },
+ "2026-09-24": {
+  "date": "2026-09-24",
+  "friendCount": 11050,
+  "friendAdd": 1
+ },
+ "2026-09-25": {
+  "date": "2026-09-25",
+  "friendCount": 11050,
+  "friendAdd": 0
+ },
+ "2026-09-26": {
+  "date": "2026-09-26",
+  "friendCount": 11047,
+  "friendAdd": 0
+ },
+ "2026-09-27": {
+  "date": "2026-09-27",
+  "friendCount": 11046,
+  "friendAdd": 0
+ },
+ "2026-09-28": {
+  "date": "2026-09-28",
+  "friendCount": 11046,
+  "friendAdd": 2
+ },
+ "2026-09-29": {
+  "date": "2026-09-29",
+  "friendCount": 11050,
+  "friendAdd": 4
+ },
+ "2026-09-30": {
+  "date": "2026-09-30",
+  "friendCount": 11044,
+  "friendAdd": 2
+ },
+ "2026-10-01": {
+  "date": "2026-10-01",
+  "friendCount": 11048,
+  "friendAdd": 5
+ },
+ "2026-10-02": {
+  "date": "2026-10-02",
+  "friendCount": 11053,
+  "friendAdd": 6
+ },
+ "2026-10-03": {
+  "date": "2026-10-03",
+  "friendCount": 11055,
+  "friendAdd": 2
+ },
+ "2026-10-04": {
+  "date": "2026-10-04",
+  "friendCount": 11054,
+  "friendAdd": 0
+ },
+ "2026-10-05": {
+  "date": "2026-10-05",
+  "friendCount": 11055,
+  "friendAdd": 2
+ },
+ "2026-10-06": {
+  "date": "2026-10-06",
+  "friendCount": 11052,
+  "friendAdd": 0
+ },
+ "2026-10-07": {
+  "date": "2026-10-07",
+  "friendCount": 11046,
+  "friendAdd": 3
+ },
+ "2026-10-08": {
+  "date": "2026-10-08",
+  "friendCount": 11048,
+  "friendAdd": 3
+ },
+ "2026-10-09": {
+  "date": "2026-10-09",
+  "friendCount": 11048,
+  "friendAdd": 2
+ },
+ "2026-10-10": {
+  "date": "2026-10-10",
+  "friendCount": 11047,
+  "friendAdd": 0
+ },
+ "2026-10-11": {
+  "date": "2026-10-11",
+  "friendCount": 11047,
+  "friendAdd": 1
+ },
+ "2026-10-12": {
+  "date": "2026-10-12",
+  "friendCount": 11047,
+  "friendAdd": 1
+ },
+ "2026-10-13": {
+  "date": "2026-10-13",
+  "friendCount": 11048,
+  "friendAdd": 2
+ },
+ "2026-10-14": {
+  "date": "2026-10-14",
+  "friendCount": 11041,
+  "friendAdd": 2
+ },
+ "2026-10-15": {
+  "date": "2026-10-15",
+  "friendCount": 11040,
+  "friendAdd": 2
+ },
+ "2026-10-16": {
+  "date": "2026-10-16",
+  "friendCount": 11041,
+  "friendAdd": 2
+ },
+ "2026-10-17": {
+  "date": "2026-10-17",
+  "friendCount": 11040,
+  "friendAdd": 0
+ },
+ "2026-10-18": {
+  "date": "2026-10-18",
+  "friendCount": 11040,
+  "friendAdd": 2
+ },
+ "2026-10-19": {
+  "date": "2026-10-19",
+  "friendCount": 11041,
+  "friendAdd": 1
+ },
+ "2026-10-20": {
+  "date": "2026-10-20",
+  "friendCount": 11040,
+  "friendAdd": 1
+ },
+ "2026-10-21": {
+  "date": "2026-10-21",
+  "friendCount": 11031,
+  "friendAdd": 1
+ },
+ "2026-10-22": {
+  "date": "2026-10-22",
+  "friendCount": 11029,
+  "friendAdd": 0
+ },
+ "2026-10-23": {
+  "date": "2026-10-23",
+  "friendCount": 11020,
+  "friendAdd": 3
+ },
+ "2026-10-24": {
+  "date": "2026-10-24",
+  "friendCount": 11021,
+  "friendAdd": 1
+ },
+ "2026-10-25": {
+  "date": "2026-10-25",
+  "friendCount": 11024,
+  "friendAdd": 3
+ },
+ "2026-10-26": {
+  "date": "2026-10-26",
+  "friendCount": 11025,
+  "friendAdd": 1
+ },
+ "2026-10-27": {
+  "date": "2026-10-27",
+  "friendCount": 11023,
+  "friendAdd": 1
+ },
+ "2026-10-28": {
+  "date": "2026-10-28",
+  "friendCount": 11021,
+  "friendAdd": 3
+ },
+ "2026-10-29": {
+  "date": "2026-10-29",
+  "friendCount": 11023,
+  "friendAdd": 3
+ },
+ "2026-10-30": {
+  "date": "2026-10-30",
+  "friendCount": 11013,
+  "friendAdd": 1
+ },
+ "2026-10-31": {
+  "date": "2026-10-31",
+  "friendCount": 11015,
+  "friendAdd": 3
+ },
+ "2026-11-01": {
+  "date": "2026-11-01",
+  "friendCount": 11014,
+  "friendAdd": 0
+ },
+ "2026-11-02": {
+  "date": "2026-11-02",
+  "friendCount": 11016,
+  "friendAdd": 2
+ },
+ "2026-11-03": {
+  "date": "2026-11-03",
+  "friendCount": 11013,
+  "friendAdd": 0
+ },
+ "2026-11-04": {
+  "date": "2026-11-04",
+  "friendCount": 11009,
+  "friendAdd": 3
+ },
+ "2026-11-05": {
+  "date": "2026-11-05",
+  "friendCount": 11010,
+  "friendAdd": 2
+ },
+ "2026-11-06": {
+  "date": "2026-11-06",
+  "friendCount": 11009,
+  "friendAdd": 1
+ },
+ "2026-11-07": {
+  "date": "2026-11-07",
+  "friendCount": 11009,
+  "friendAdd": 1
+ },
+ "2026-11-08": {
+  "date": "2026-11-08",
+  "friendCount": 11008,
+  "friendAdd": 0
+ },
+ "2026-11-09": {
+  "date": "2026-11-09",
+  "friendCount": 11009,
+  "friendAdd": 2
+ },
+ "2026-11-10": {
+  "date": "2026-11-10",
+  "friendCount": 11007,
+  "friendAdd": 1
+ },
+ "2026-11-11": {
+  "date": "2026-11-11",
+  "friendCount": 11002,
+  "friendAdd": 2
+ },
+ "2026-11-12": {
+  "date": "2026-11-12",
+  "friendCount": 11009,
+  "friendAdd": 8
+ },
+ "2026-11-13": {
+  "date": "2026-11-13",
+  "friendCount": 11007,
+  "friendAdd": 1
+ },
+ "2026-11-14": {
+  "date": "2026-11-14",
+  "friendCount": 11009,
+  "friendAdd": 4
+ },
+ "2026-11-15": {
+  "date": "2026-11-15",
+  "friendCount": 11009,
+  "friendAdd": 1
+ },
+ "2026-11-16": {
+  "date": "2026-11-16",
+  "friendCount": 11011,
+  "friendAdd": 2
+ },
+ "2026-11-17": {
+  "date": "2026-11-17",
+  "friendCount": 11012,
+  "friendAdd": 2
+ },
+ "2026-11-18": {
+  "date": "2026-11-18",
+  "friendCount": 11010,
+  "friendAdd": 2
+ },
+ "2026-11-19": {
+  "date": "2026-11-19",
+  "friendCount": 11006,
+  "friendAdd": 0
+ },
+ "2026-11-20": {
+  "date": "2026-11-20",
+  "friendCount": 11006,
+  "friendAdd": 1
+ }
+}

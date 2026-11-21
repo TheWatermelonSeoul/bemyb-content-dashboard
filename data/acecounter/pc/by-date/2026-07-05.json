@@ -1,0 +1,138 @@
+{
+ "date": "2026-07-05",
+ "collectedAt": "2026-11-21T04:56:59.095Z",
+ "pages": [
+  {
+   "url": "/351",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 47
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 31
+  },
+  {
+   "source": "내부유입",
+   "visits": 8
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 23
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 16
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 14
+  },
+  {
+   "domain": "내부유입",
+   "visits": 8
+  },
+  {
+   "domain": "직접유입",
+   "visits": 23
+  }
+ ]
+}

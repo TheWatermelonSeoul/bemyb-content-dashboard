@@ -1,0 +1,208 @@
+{
+ "date": "2026-07-08",
+ "collectedAt": "2026-11-21T04:57:13.380Z",
+ "pages": [
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 92
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 644
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 28
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 30
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 145
+  },
+  {
+   "source": "내부유입",
+   "visits": 61
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 14
+  },
+  {
+   "source": "직접유입",
+   "visits": 319
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 2
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 54
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "office.net",
+   "visits": 3
+  },
+  {
+   "domain": "naver.com",
+   "visits": 91
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 4
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 61
+  },
+  {
+   "domain": "직접유입",
+   "visits": 319
+  }
+ ]
+}

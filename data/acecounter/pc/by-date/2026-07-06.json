@@ -1,0 +1,206 @@
+{
+ "date": "2026-07-06",
+ "collectedAt": "2026-11-21T04:57:03.816Z",
+ "pages": [
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/abroadNews-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 64
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 217
+  },
+  {
+   "url": "/freitag",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 37
+  },
+  {
+   "url": "/moleskine",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 79
+  },
+  {
+   "source": "내부유입",
+   "visits": 33
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 12
+  },
+  {
+   "source": "직접유입",
+   "visits": 142
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 4
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 56
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 20
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 3
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 1
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "zero-base.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 33
+  },
+  {
+   "domain": "직접유입",
+   "visits": 142
+  }
+ ]
+}

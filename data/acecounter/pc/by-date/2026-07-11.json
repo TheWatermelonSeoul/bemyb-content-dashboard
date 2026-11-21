@@ -1,0 +1,98 @@
+{
+ "date": "2026-07-11",
+ "collectedAt": "2026-11-21T04:57:27.738Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 32
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 20
+  },
+  {
+   "source": "내부유입",
+   "visits": 7
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 4
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 17
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 3
+  },
+  {
+   "domain": "panjoy.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 7
+  },
+  {
+   "domain": "직접유입",
+   "visits": 4
+  }
+ ]
+}

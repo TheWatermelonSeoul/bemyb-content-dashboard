@@ -1,0 +1,178 @@
+{
+ "date": "2026-07-09",
+ "collectedAt": "2026-11-21T04:57:18.158Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 75
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 329
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 23
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 33
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 81
+  },
+  {
+   "source": "내부유입",
+   "visits": 61
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 8
+  },
+  {
+   "source": "직접유입",
+   "visits": 137
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 2
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 41
+  },
+  {
+   "domain": "daum.net",
+   "visits": 3
+  },
+  {
+   "domain": "i-boss.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "iconlet.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 36
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 1
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 61
+  },
+  {
+   "domain": "직접유입",
+   "visits": 137
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "date": "2026-11-05",
+ "collectedAt": "2026-11-21T05:06:44.331Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/about-before",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/apple",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/bemybangkok",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/blackwing",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandfgd_food",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 208
+  },
+  {
+   "url": "/contents-tech",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 169
+  },
+  {
+   "url": "/fritz",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 23
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/magazineb",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 36
+  },
+  {
+   "url": "/session_review",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 65
+  },
+  {
+   "source": "내부유입",
+   "visits": 38
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 282
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 45
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 19
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 38
+  },
+  {
+   "domain": "직접유입",
+   "visits": 282
+  }
+ ]
+}

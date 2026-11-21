@@ -1,0 +1,174 @@
+{
+ "date": "2026-07-16",
+ "collectedAt": "2026-11-21T04:57:51.623Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandtrip1",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/contents-052",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 272
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 67
+  },
+  {
+   "source": "내부유입",
+   "visits": 18
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 198
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "claude.ai",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 42
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "froma.co",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 22
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 18
+  },
+  {
+   "domain": "직접유입",
+   "visits": 198
+  }
+ ]
+}

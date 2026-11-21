@@ -1,0 +1,233 @@
+{
+ "date": "2026-06-19",
+ "collectedAt": "2026-11-21T04:55:42.888Z",
+ "pages": [
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/439/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/apple",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/blackwing",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 31
+  },
+  {
+   "url": "/contents-54",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 468
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 27
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_payment/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_payment_complete",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/site_join_agree",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 9
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 52
+  },
+  {
+   "source": "내부유입",
+   "visits": 47
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 9
+  },
+  {
+   "source": "직접유입",
+   "visits": 480
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 41
+  },
+  {
+   "domain": "event-us.kr",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 11
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 3
+  },
+  {
+   "domain": "내부유입",
+   "visits": 47
+  },
+  {
+   "domain": "직접유입",
+   "visits": 480
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "date": "2026-07-12",
+ "collectedAt": "2026-11-21T04:57:32.436Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 45
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 24
+  },
+  {
+   "source": "내부유입",
+   "visits": 11
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 17
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 17
+  },
+  {
+   "domain": "naver.com",
+   "visits": 7
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 11
+  },
+  {
+   "domain": "직접유입",
+   "visits": 17
+  }
+ ]
+}

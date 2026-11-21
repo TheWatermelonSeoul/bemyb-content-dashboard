@@ -1,0 +1,172 @@
+{
+ "date": "2026-10-26",
+ "collectedAt": "2026-11-21T05:05:56.833Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/abroadNews-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 52
+  },
+  {
+   "url": "/contents-050",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 110
+  },
+  {
+   "url": "/fritz",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 19
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 48
+  },
+  {
+   "source": "내부유입",
+   "visits": 22
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 11
+  },
+  {
+   "source": "직접유입",
+   "visits": 59
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 2
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 31
+  },
+  {
+   "domain": "nate.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 18
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 5
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 22
+  },
+  {
+   "domain": "직접유입",
+   "visits": 59
+  }
+ ]
+}

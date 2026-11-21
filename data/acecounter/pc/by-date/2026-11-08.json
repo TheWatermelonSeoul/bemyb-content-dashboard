@@ -1,0 +1,199 @@
+{
+ "date": "2026-11-08",
+ "collectedAt": "2026-11-21T05:06:58.579Z",
+ "pages": [
+  {
+   "url": "/356",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandsession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 114
+  },
+  {
+   "url": "/contents-051",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 46
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 47
+  },
+  {
+   "url": "/moleskine",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session_review",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/233",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/243",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/250",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 19
+  },
+  {
+   "source": "내부유입",
+   "visits": 60
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 189
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 14
+  },
+  {
+   "domain": "gipkd.com",
+   "visits": 1
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 4
+  },
+  {
+   "domain": "내부유입",
+   "visits": 60
+  },
+  {
+   "domain": "직접유입",
+   "visits": 189
+  }
+ ]
+}

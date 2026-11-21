@@ -1,0 +1,124 @@
+{
+ "date": "2026-10-24",
+ "collectedAt": "2026-11-21T05:05:47.328Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 11
+  },
+  {
+   "source": "내부유입",
+   "visits": 4
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 13
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 7
+  },
+  {
+   "domain": "duckduckgo.com",
+   "visits": 1
+  },
+  {
+   "domain": "froma.co",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 4
+  },
+  {
+   "domain": "zero-base.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 4
+  },
+  {
+   "domain": "직접유입",
+   "visits": 13
+  }
+ ]
+}

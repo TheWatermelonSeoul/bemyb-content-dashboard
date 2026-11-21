@@ -1,0 +1,219 @@
+{
+ "date": "2026-07-02",
+ "collectedAt": "2026-11-21T04:56:44.786Z",
+ "pages": [
+  {
+   "url": "/367",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 65
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 600
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 29
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 69
+  },
+  {
+   "source": "내부유입",
+   "visits": 50
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 8
+  },
+  {
+   "source": "직접유입",
+   "visits": 449
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 3
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 55
+  },
+  {
+   "domain": "moneypin.biz",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 13
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 1
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 2
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 50
+  },
+  {
+   "domain": "직접유입",
+   "visits": 449
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-07",
+ "collectedAt": "2026-11-21T05:19:36.794Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 122
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 19
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 108
+  }
+ ],
+ "domains": [
+  {
+   "domain": "consumerpicker.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 3
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 3
+  },
+  {
+   "domain": "naver.com",
+   "visits": 16
+  },
+  {
+   "domain": "직접유입",
+   "visits": 108
+  }
+ ]
+}

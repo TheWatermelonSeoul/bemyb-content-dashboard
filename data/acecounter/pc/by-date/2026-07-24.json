@@ -1,0 +1,156 @@
+{
+ "date": "2026-07-24",
+ "collectedAt": "2026-11-21T04:58:29.549Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 35
+  },
+  {
+   "url": "/contents-052",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 139
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 62
+  },
+  {
+   "source": "내부유입",
+   "visits": 20
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 9
+  },
+  {
+   "source": "직접유입",
+   "visits": 34
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 33
+  },
+  {
+   "domain": "duckduckgo.com",
+   "visits": 1
+  },
+  {
+   "domain": "linkedin.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 31
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 20
+  },
+  {
+   "domain": "직접유입",
+   "visits": 34
+  }
+ ]
+}

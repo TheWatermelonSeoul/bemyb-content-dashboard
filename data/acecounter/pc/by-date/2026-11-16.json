@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-16",
+ "collectedAt": "2026-11-21T05:07:36.699Z",
+ "pages": [
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 2
+  },
+  {
+   "source": "직접유입",
+   "visits": 2
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 2
+  }
+ ]
+}

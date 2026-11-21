@@ -1,0 +1,114 @@
+{
+ "date": "2026-11-15",
+ "collectedAt": "2026-11-21T05:20:14.892Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents-047",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 325
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 30
+  },
+  {
+   "source": "내부유입",
+   "visits": 3
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 10
+  },
+  {
+   "source": "직접유입",
+   "visits": 311
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 10
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "infopopper.com",
+   "visits": 8
+  },
+  {
+   "domain": "naver.com",
+   "visits": 19
+  },
+  {
+   "domain": "내부유입",
+   "visits": 3
+  },
+  {
+   "domain": "직접유입",
+   "visits": 311
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "date": "2026-11-09",
+ "collectedAt": "2026-11-21T05:07:03.400Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/brandoftheyear/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 58
+  },
+  {
+   "url": "/contents-050",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-brand-and-marketing",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 174
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 39
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 30
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 39
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 67
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_payment/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 46
+  },
+  {
+   "source": "내부유입",
+   "visits": 49
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "웹메일",
+   "visits": 1
+  },
+  {
+   "source": "직접유입",
+   "visits": 80
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 36
+  },
+  {
+   "domain": "imweb.me",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 11
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 1
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "thewatermelon.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 49
+  },
+  {
+   "domain": "직접유입",
+   "visits": 80
+  }
+ ]
+}

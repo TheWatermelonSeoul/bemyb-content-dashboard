@@ -1,0 +1,213 @@
+{
+ "date": "2026-11-04",
+ "collectedAt": "2026-11-21T05:06:39.550Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/brandsession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 307
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 305
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 31
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_view/252",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/space",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 36
+  },
+  {
+   "source": "내부유입",
+   "visits": 46
+  },
+  {
+   "source": "블로그",
+   "visits": 2
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 9
+  },
+  {
+   "source": "직접유입",
+   "visits": 444
+  }
+ ],
+ "domains": [
+  {
+   "domain": "com.slack",
+   "visits": 1
+  },
+  {
+   "domain": "bizhankook.com",
+   "visits": 2
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 25
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "imweb.me",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 11
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 2
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 46
+  },
+  {
+   "domain": "직접유입",
+   "visits": 444
+  }
+ ]
+}

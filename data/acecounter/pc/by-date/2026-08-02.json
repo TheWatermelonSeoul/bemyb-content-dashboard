@@ -1,0 +1,125 @@
+{
+ "date": "2026-08-02",
+ "collectedAt": "2026-11-21T04:59:12.297Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 86
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/site_join_agree",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 19
+  },
+  {
+   "source": "내부유입",
+   "visits": 6
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 69
+  }
+ ],
+ "domains": [
+  {
+   "domain": "claude.ai",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 18
+  },
+  {
+   "domain": "naver.com",
+   "visits": 2
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 6
+  },
+  {
+   "domain": "직접유입",
+   "visits": 69
+  }
+ ]
+}

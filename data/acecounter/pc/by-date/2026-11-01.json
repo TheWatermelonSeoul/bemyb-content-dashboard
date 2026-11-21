@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-01",
+ "collectedAt": "2026-11-21T05:06:25.168Z",
+ "pages": [
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 38
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 13
+  },
+  {
+   "source": "내부유입",
+   "visits": 9
+  },
+  {
+   "source": "직접유입",
+   "visits": 20
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 10
+  },
+  {
+   "domain": "naver.com",
+   "visits": 3
+  },
+  {
+   "domain": "내부유입",
+   "visits": 9
+  },
+  {
+   "domain": "직접유입",
+   "visits": 20
+  }
+ ]
+}

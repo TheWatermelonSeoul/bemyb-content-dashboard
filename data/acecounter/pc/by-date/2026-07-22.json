@@ -1,0 +1,158 @@
+{
+ "date": "2026-07-22",
+ "collectedAt": "2026-11-21T04:58:20.055Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 69
+  },
+  {
+   "url": "/contents-052",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 265
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 28
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 97
+  },
+  {
+   "source": "내부유입",
+   "visits": 30
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 81
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 60
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "flowup.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "i-boss.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 38
+  },
+  {
+   "domain": "내부유입",
+   "visits": 30
+  },
+  {
+   "domain": "직접유입",
+   "visits": 81
+  }
+ ]
+}

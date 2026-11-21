@@ -1,0 +1,177 @@
+{
+ "date": "2026-07-07",
+ "collectedAt": "2026-11-21T04:57:08.615Z",
+ "pages": [
+  {
+   "url": "/367",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 67
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 232
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 33
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 5
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 86
+  },
+  {
+   "source": "내부유입",
+   "visits": 54
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 6
+  },
+  {
+   "source": "직접유입",
+   "visits": 38
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 60
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 25
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 3
+  },
+  {
+   "domain": "yahoo.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 54
+  },
+  {
+   "domain": "직접유입",
+   "visits": 38
+  }
+ ]
+}

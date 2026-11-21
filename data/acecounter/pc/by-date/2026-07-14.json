@@ -1,0 +1,237 @@
+{
+ "date": "2026-07-14",
+ "collectedAt": "2026-11-21T04:57:41.981Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/abroadNews-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/brandoftheyear/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandtrip1",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 74
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 686
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/215",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 5
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 79
+  },
+  {
+   "source": "내부유입",
+   "visits": 32
+  },
+  {
+   "source": "블로그",
+   "visits": 2
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 30
+  },
+  {
+   "source": "직접유입",
+   "visits": 497
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 3
+  },
+  {
+   "domain": "bing.com",
+   "visits": 2
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 2
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 59
+  },
+  {
+   "domain": "google.com.hk",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "flowup.co.kr",
+   "visits": 18
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "hiworks.com",
+   "visits": 2
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 19
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 1
+  },
+  {
+   "domain": "thewatermelon.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 32
+  },
+  {
+   "domain": "직접유입",
+   "visits": 497
+  }
+ ]
+}

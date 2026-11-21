@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-29",
+ "collectedAt": "2026-11-21T05:18:54.169Z",
+ "pages": [
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 89
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 5
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 36
+  },
+  {
+   "source": "내부유입",
+   "visits": 4
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 6
+  },
+  {
+   "source": "직접유입",
+   "visits": 59
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 10
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 6
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 26
+  },
+  {
+   "domain": "내부유입",
+   "visits": 4
+  },
+  {
+   "domain": "직접유입",
+   "visits": 59
+  }
+ ]
+}

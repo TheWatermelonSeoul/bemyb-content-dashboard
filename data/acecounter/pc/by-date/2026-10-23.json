@@ -1,0 +1,205 @@
+{
+ "date": "2026-10-23",
+ "collectedAt": "2026-11-21T05:05:42.571Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 53
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 308
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 43
+  },
+  {
+   "source": "내부유입",
+   "visits": 55
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 11
+  },
+  {
+   "source": "직접유입",
+   "visits": 162
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 3
+  },
+  {
+   "domain": "google.com",
+   "visits": 35
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 9
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 4
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "zero-base.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 55
+  },
+  {
+   "domain": "직접유입",
+   "visits": 162
+  }
+ ]
+}

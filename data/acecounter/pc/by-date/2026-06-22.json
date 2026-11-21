@@ -1,0 +1,237 @@
+{
+ "date": "2026-06-22",
+ "collectedAt": "2026-11-21T04:55:57.087Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/447",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/brandfgd_startup",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandtrip1",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 116
+  },
+  {
+   "url": "/contents-047",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-brand-and-marketing",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-media-and-contents",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 543
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 90
+  },
+  {
+   "url": "/join_complete.php",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 27
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 30
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/site_join",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 123
+  },
+  {
+   "source": "내부유입",
+   "visits": 37
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 10
+  },
+  {
+   "source": "직접유입",
+   "visits": 388
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 3
+  },
+  {
+   "domain": "bing.com",
+   "visits": 2
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 87
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 37
+  },
+  {
+   "domain": "simplexi.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 37
+  },
+  {
+   "domain": "직접유입",
+   "visits": 388
+  }
+ ]
+}

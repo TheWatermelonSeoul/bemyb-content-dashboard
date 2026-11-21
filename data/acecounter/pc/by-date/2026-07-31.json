@@ -1,0 +1,199 @@
+{
+ "date": "2026-07-31",
+ "collectedAt": "2026-11-21T04:59:02.856Z",
+ "pages": [
+  {
+   "url": "/351",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 51
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 203
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/lge_brandfan",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 32
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 3
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 55
+  },
+  {
+   "source": "내부유입",
+   "visits": 44
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 7
+  },
+  {
+   "source": "직접유입",
+   "visits": 160
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bizhankook.com",
+   "visits": 3
+  },
+  {
+   "domain": "google.com",
+   "visits": 39
+  },
+  {
+   "domain": "daum.net",
+   "visits": 3
+  },
+  {
+   "domain": "event-us.kr",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "mailplug.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 14
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 44
+  },
+  {
+   "domain": "직접유입",
+   "visits": 160
+  }
+ ]
+}

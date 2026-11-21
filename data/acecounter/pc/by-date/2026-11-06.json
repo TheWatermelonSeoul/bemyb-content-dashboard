@@ -1,0 +1,187 @@
+{
+ "date": "2026-11-06",
+ "collectedAt": "2026-11-21T05:06:49.065Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 144
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 132
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 45
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/session_review",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 45
+  },
+  {
+   "source": "내부유입",
+   "visits": 24
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 10
+  },
+  {
+   "source": "직접유입",
+   "visits": 221
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bizhankook.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 40
+  },
+  {
+   "domain": "konkuk.ac.kr",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 9
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 24
+  },
+  {
+   "domain": "직접유입",
+   "visits": 221
+  }
+ ]
+}

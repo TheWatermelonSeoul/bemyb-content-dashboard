@@ -1,0 +1,121 @@
+{
+ "date": "2026-10-22",
+ "collectedAt": "2026-11-21T05:18:20.985Z",
+ "pages": [
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 123
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 26
+  },
+  {
+   "source": "내부유입",
+   "visits": 5
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 25
+  },
+  {
+   "source": "직접유입",
+   "visits": 70
+  }
+ ],
+ "domains": [
+  {
+   "domain": "consumerpicker.com",
+   "visits": 4
+  },
+  {
+   "domain": "google.com",
+   "visits": 8
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 17
+  },
+  {
+   "domain": "naver.com",
+   "visits": 18
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 3
+  },
+  {
+   "domain": "thewatermelon.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 5
+  },
+  {
+   "domain": "직접유입",
+   "visits": 70
+  }
+ ]
+}

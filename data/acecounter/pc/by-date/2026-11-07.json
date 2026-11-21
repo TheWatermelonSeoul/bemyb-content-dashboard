@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-07",
+ "collectedAt": "2026-11-21T05:06:53.833Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 194
+  },
+  {
+   "url": "/contents-051",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-54",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-brand-and-marketing",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 31
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 32
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 19
+  },
+  {
+   "source": "내부유입",
+   "visits": 23
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 1
+  },
+  {
+   "source": "직접유입",
+   "visits": 259
+  }
+ ],
+ "domains": [
+  {
+   "domain": "aocr.org",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 11
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 8
+  },
+  {
+   "domain": "내부유입",
+   "visits": 23
+  },
+  {
+   "domain": "직접유입",
+   "visits": 259
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "bemyb-content-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "ace:login": "node scripts/acecounter/collect.mjs login",
+    "ace:collect": "node scripts/acecounter/collect.mjs collect",
+    "posts:sync": "node scripts/bemyb/posts.mjs",
+    "sync": "node scripts/bemyb/posts.mjs && node scripts/acecounter/collect.mjs collect && node scripts/imweb/collect.mjs collect",
+    "kakao:import": "node scripts/kakao/import.mjs",
+    "kakao:login": "node scripts/kakao/collect.mjs login",
+    "kakao:collect": "node scripts/kakao/collect.mjs collect",
+    "imweb:login": "node scripts/imweb/collect.mjs login",
+    "imweb:collect": "node scripts/imweb/collect.mjs collect",
+    "meta:test": "node --env-file=.env.local scripts/meta/test.mjs"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "server-only": "^0.0.1",
+    "playwright": "^1.65.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}

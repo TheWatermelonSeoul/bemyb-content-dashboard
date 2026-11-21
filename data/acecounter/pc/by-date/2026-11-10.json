@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-10",
+ "collectedAt": "2026-11-21T05:07:08.195Z",
+ "pages": [
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/about-before",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/abroadNews-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 77
+  },
+  {
+   "url": "/contents-brand-and-marketing",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 237
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 23
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 28
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 43
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join_agree",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 36
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 4
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 49
+  },
+  {
+   "source": "내부유입",
+   "visits": 35
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 9
+  },
+  {
+   "source": "직접유입",
+   "visits": 236
+  }
+ ],
+ "domains": [
+  {
+   "domain": "commons.kr",
+   "visits": 1
+  },
+  {
+   "domain": "claude.ai",
+   "visits": 1
+  },
+  {
+   "domain": "android.googlequicksearchbox",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 34
+  },
+  {
+   "domain": "daum.net",
+   "visits": 3
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 4
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 13
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 35
+  },
+  {
+   "domain": "직접유입",
+   "visits": 236
+  }
+ ]
+}
