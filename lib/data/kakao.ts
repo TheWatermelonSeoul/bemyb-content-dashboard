@@ -55,7 +55,9 @@ export function loadKakao(days: number) {
   };
   const msgCur = messages.filter((m) => inRange(m, start, end));
   const msgPrev = messages.filter((m) => inRange(m, prevStart, prevEnd));
-  const rate = (ms: KakaoMessage[], num: keyof KakaoMessage, den: keyof KakaoMessage) => {
+  // 발송 직후에는 통계가 -1(집계 중)로 온다 — 비율 계산에서 뺀다
+  const rate = (all: KakaoMessage[], num: keyof KakaoMessage, den: keyof KakaoMessage) => {
+    const ms = all.filter((m) => m.send >= 0 && m.imp >= 0 && m.click >= 0);
     const n = ms.reduce((a, m) => a + (m[num] as number), 0);
     const d = ms.reduce((a, m) => a + (m[den] as number), 0);
     return d ? (n / d) * 100 : null;
@@ -76,7 +78,10 @@ export function loadKakao(days: number) {
   const recent = [...messages]
     .sort((a, b) => b.at - a.at)
     .slice(0, 20)
-    .map((m) => ({ ...m, date: kstDate(m.at) }));
+    .map((m) => {
+      const v = (x: number) => (x < 0 ? null : x);
+      return { ...m, date: kstDate(m.at), send: v(m.send), imp: v(m.imp), click: v(m.click), share: v(m.share) };
+    });
 
   return { period: { start, end }, collectedAt: meta?.importedAt ?? null, kpis, friendAdds, prevAdds, recent };
 }

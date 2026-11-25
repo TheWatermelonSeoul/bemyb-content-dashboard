@@ -77,7 +77,7 @@ export type KakaoView = {
   friends: DailyPoint[];
   prevFriends?: DailyPoint[];
   period?: { start: string; end: string };
-  recent?: { id: number; date: string; title: string; send: number; imp: number; click: number; share: number }[];
+  recent?: { id: number; date: string; title: string; send: number | null; imp: number | null; click: number | null; share: number | null }[];
 };
 
 export async function getKakaoData(days: RangeDays): Promise<ChannelData<KakaoView>> {

@@ -44,9 +44,9 @@ async function View({ range }: { range: RangeDays }) {
                       <td style={{ textAlign: "left", maxWidth: 360, overflow: "hidden", textOverflow: "ellipsis" }} title={m.title}>{m.title}</td>
                       <td style={{ textAlign: "right" }}>{fmt(m.send)}</td>
                       <td>{fmt(m.imp)}</td>
-                      <td>{fmt(m.send ? (m.imp / m.send) * 100 : null, 1, "%")}</td>
+                      <td>{fmt(m.send && m.imp !== null ? (m.imp / m.send) * 100 : null, 1, "%")}</td>
                       <td>{fmt(m.click)}</td>
-                      <td>{fmt(m.imp ? (m.click / m.imp) * 100 : null, 1, "%")}</td>
+                      <td>{fmt(m.imp && m.click !== null ? (m.click / m.imp) * 100 : null, 1, "%")}</td>
                       <td>{fmt(m.share)}</td>
                     </tr>
                   ))}
