@@ -13,3 +13,4 @@ next-env.d.ts
 # 원본 HTML, 내보내기 파일
 data/**/raw/
 kakao-export*.json
+logs/
