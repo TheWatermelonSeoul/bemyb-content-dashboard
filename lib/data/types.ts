@@ -26,6 +26,9 @@ export type ContentRow = {
   comments: number | null;
   saves: number | null;
   shares: number | null;
+  /** 원본 게시물 주소 (있으면 링크) */
+  permalink?: string;
+  views?: number | null;
 };
 
 export type ChannelData<T> = {

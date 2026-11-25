@@ -9,13 +9,14 @@
     "ace:login": "node scripts/acecounter/collect.mjs login",
     "ace:collect": "node scripts/acecounter/collect.mjs collect",
     "posts:sync": "node scripts/bemyb/posts.mjs",
-    "sync": "node scripts/bemyb/posts.mjs && node scripts/acecounter/collect.mjs collect && node scripts/imweb/collect.mjs collect",
+    "sync": "node scripts/bemyb/posts.mjs && node scripts/acecounter/collect.mjs collect && node scripts/imweb/collect.mjs collect && npm run meta:collect",
     "kakao:import": "node scripts/kakao/import.mjs",
     "kakao:login": "node scripts/kakao/collect.mjs login",
     "kakao:collect": "node scripts/kakao/collect.mjs collect",
     "imweb:login": "node scripts/imweb/collect.mjs login",
     "imweb:collect": "node scripts/imweb/collect.mjs collect",
-    "meta:test": "node --env-file=.env.local scripts/meta/test.mjs"
+    "meta:test": "node --env-file=.env.local scripts/meta/test.mjs",
+    "meta:collect": "node --env-file=.env.local scripts/meta/collect.mjs"
   },
   "engines": {
     "node": ">=20.9.0"

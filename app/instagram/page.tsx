@@ -8,10 +8,16 @@ import { DataBanner, KpiGrid } from "../components/ui";
 async function View({ range }: { range: RangeDays }) {
   const { mode, collectedAt, data } = await getInstagramData(range);
   const rows = [...data.contents].sort((a, b) => (b.reach ?? 0) - (a.reach ?? 0));
+  const live = mode === "live";
 
   return (
     <>
-      <DataBanner mode={mode} collectedAt={collectedAt} source="인스타그램" />
+      <DataBanner mode={mode} collectedAt={collectedAt} source={live ? `인스타그램 Graph API (@${data.username})` : "인스타그램"} />
+      {live && data.period && (
+        <p style={{ margin: "-8px 0 16px", fontSize: 13, color: "var(--text-secondary)" }}>
+          분석 기간 {data.period.start} ~ {data.period.end} · 도달은 날짜별 도달 수를 더한 값이라 같은 사람이 여러 날 보면 중복으로 셉니다
+        </p>
+      )}
       <KpiGrid kpis={data.kpis} />
 
       <div className="grid" style={{ marginTop: 16 }}>
@@ -23,7 +29,7 @@ async function View({ range }: { range: RangeDays }) {
 
         <div className="card">
           <h2>콘텐츠별 성과</h2>
-          <p className="sub">도달 높은 순 · 참여율 = (좋아요+댓글+저장+공유) ÷ 도달</p>
+          <p className="sub">이 기간에 올린 게시물 · 도달 높은 순 · 수치는 수집 시점까지의 누적 · 참여율 = (좋아요+댓글+저장+공유) ÷ 도달</p>
           <div className="table-wrap">
             <table>
               <thead>
@@ -40,7 +46,7 @@ async function View({ range }: { range: RangeDays }) {
                   return (
                     <tr key={r.id}>
                       <td>{r.date}</td>
-                      <td>{r.title}</td>
+                      <td>{r.permalink ? <a href={r.permalink} target="_blank" rel="noreferrer">{r.title}</a> : r.title}</td>
                       <td>{r.type}</td>
                       <td>{fmt(r.reach)}</td>
                       <td>{fmt(r.likes)}</td>
@@ -51,6 +57,9 @@ async function View({ range }: { range: RangeDays }) {
                     </tr>
                   );
                 })}
+                {!rows.length && (
+                  <tr><td colSpan={9} className="empty">이 기간에 올린 게시물이 없습니다.</td></tr>
+                )}
               </tbody>
             </table>
           </div>

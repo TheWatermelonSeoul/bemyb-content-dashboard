@@ -5,6 +5,7 @@
  */
 import { loadAceCounter } from "./acecounter";
 import { loadKakao } from "./kakao";
+import { loadInstagram } from "./instagram";
 import { sampleInstagram, sampleKakao, sampleWebsite } from "./sample";
 import type { ChannelData, DailyPoint, Kpi, RankedItem } from "./types";
 
@@ -56,7 +57,18 @@ export async function getWebsiteData(days: RangeDays): Promise<ChannelData<Websi
   return { mode: "sample", collectedAt: null, rangeDays: days, data: sampleWebsite(days) };
 }
 
-export async function getInstagramData(days: RangeDays): Promise<ChannelData<ReturnType<typeof sampleInstagram>>> {
+export async function getInstagramData(
+  days: RangeDays,
+): Promise<ChannelData<ReturnType<typeof sampleInstagram> & { period?: { start: string; end: string }; username?: string }>> {
+  const live = loadInstagram(days);
+  if (live) {
+    return {
+      mode: "live",
+      collectedAt: live.collectedAt,
+      rangeDays: days,
+      data: { kpis: live.kpis, reach: live.reach, prevReach: live.prevReach, contents: live.contents, period: live.period, username: live.username },
+    };
+  }
   return { mode: "sample", collectedAt: null, rangeDays: days, data: sampleInstagram(days) };
 }
 
