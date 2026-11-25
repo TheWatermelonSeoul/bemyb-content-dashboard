@@ -1,0 +1,115 @@
+{
+ "date": "2026-09-25",
+ "collectedAt": "2026-11-21T05:16:12.389Z",
+ "pages": [
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandfgd_food",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 35
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_cart",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 22
+  },
+  {
+   "source": "내부유입",
+   "visits": 7
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 1
+  },
+  {
+   "source": "직접유입",
+   "visits": 21
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 5
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 17
+  },
+  {
+   "domain": "내부유입",
+   "visits": 7
+  },
+  {
+   "domain": "직접유입",
+   "visits": 21
+  }
+ ]
+}

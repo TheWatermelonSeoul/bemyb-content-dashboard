@@ -1,0 +1,182 @@
+{
+ "date": "2026-08-07",
+ "collectedAt": "2026-11-21T04:59:36.288Z",
+ "pages": [
+  {
+   "url": "/351",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/about",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 71
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 230
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 6
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 70
+  },
+  {
+   "source": "내부유입",
+   "visits": 49
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 121
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 46
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 23
+  },
+  {
+   "domain": "nextgeeker.com",
+   "visits": 1
+  },
+  {
+   "domain": "thewatermelon.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 49
+  },
+  {
+   "domain": "직접유입",
+   "visits": 121
+  }
+ ]
+}

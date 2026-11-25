@@ -1,0 +1,131 @@
+{
+ "date": "2026-08-29",
+ "collectedAt": "2026-11-21T05:14:03.710Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandoftheyear/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 205
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 32
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 189
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 10
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 20
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 189
+  }
+ ]
+}

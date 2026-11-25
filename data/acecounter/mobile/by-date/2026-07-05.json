@@ -1,0 +1,90 @@
+{
+ "date": "2026-07-05",
+ "collectedAt": "2026-11-21T05:09:40.812Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 49
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 38
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 2
+  },
+  {
+   "source": "직접유입",
+   "visits": 10
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 8
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 30
+  },
+  {
+   "domain": "직접유입",
+   "visits": 10
+  }
+ ]
+}

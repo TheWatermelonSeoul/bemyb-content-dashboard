@@ -1,0 +1,150 @@
+{
+ "date": "2026-10-08",
+ "collectedAt": "2026-11-21T05:17:14.485Z",
+ "pages": [
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 134
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 4
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 35
+  },
+  {
+   "source": "내부유입",
+   "visits": 5
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 17
+  },
+  {
+   "source": "직접유입",
+   "visits": 80
+  }
+ ],
+ "domains": [
+  {
+   "domain": "consumerpicker.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 3
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 13
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 4
+  },
+  {
+   "domain": "monetaryout.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 31
+  },
+  {
+   "domain": "namu.wiki",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 5
+  },
+  {
+   "domain": "직접유입",
+   "visits": 80
+  }
+ ]
+}

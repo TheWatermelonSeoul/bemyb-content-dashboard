@@ -1,0 +1,112 @@
+{
+ "date": "2026-08-20",
+ "collectedAt": "2026-11-21T05:13:20.652Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 99
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 6
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 30
+  },
+  {
+   "source": "내부유입",
+   "visits": 2
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 11
+  },
+  {
+   "source": "직접유입",
+   "visits": 55
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 4
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 10
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 6
+  },
+  {
+   "domain": "naver.com",
+   "visits": 25
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 2
+  },
+  {
+   "domain": "직접유입",
+   "visits": 55
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "date": "2026-07-01",
+ "collectedAt": "2026-11-21T05:09:21.779Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/contents-052",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 453
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 6
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 11
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 64
+  },
+  {
+   "source": "내부유입",
+   "visits": 7
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 93
+  },
+  {
+   "source": "직접유입",
+   "visits": 284
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 2
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 21
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 7
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 91
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 4
+  },
+  {
+   "domain": "naver.com",
+   "visits": 41
+  },
+  {
+   "domain": "내부유입",
+   "visits": 7
+  },
+  {
+   "domain": "직접유입",
+   "visits": 284
+  }
+ ]
+}

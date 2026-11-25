@@ -1,0 +1,212 @@
+{
+ "date": "2026-09-23",
+ "collectedAt": "2026-11-21T05:16:02.830Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 328
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/join_complete.php",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 85
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_payment",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_payment/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_payment_complete",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 97
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 37
+  },
+  {
+   "source": "내부유입",
+   "visits": 6
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 74
+  },
+  {
+   "source": "직접유입",
+   "visits": 200
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 6
+  },
+  {
+   "domain": "google.com",
+   "visits": 14
+  },
+  {
+   "domain": "daum.net",
+   "visits": 3
+  },
+  {
+   "domain": "eopla.net",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 63
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 95
+  },
+  {
+   "domain": "linkedin.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 20
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "threads.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 6
+  },
+  {
+   "domain": "직접유입",
+   "visits": 200
+  }
+ ]
+}

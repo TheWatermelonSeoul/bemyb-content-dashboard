@@ -1,0 +1,142 @@
+{
+ "date": "2026-08-26",
+ "collectedAt": "2026-11-21T05:13:49.279Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents-047",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-brand-and-marketing",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 311
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 19
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 4
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 34
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 49
+  },
+  {
+   "source": "직접유입",
+   "visits": 235
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 1
+  },
+  {
+   "domain": "bskco.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 5
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 44
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 4
+  },
+  {
+   "domain": "naver.com",
+   "visits": 29
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 2
+  },
+  {
+   "domain": "직접유입",
+   "visits": 235
+  }
+ ]
+}

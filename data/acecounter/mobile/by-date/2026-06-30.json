@@ -1,0 +1,116 @@
+{
+ "date": "2026-06-30",
+ "collectedAt": "2026-11-21T05:09:17.050Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 105
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 3
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 40
+  },
+  {
+   "source": "내부유입",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 74
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 9
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "linkedin.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 31
+  },
+  {
+   "domain": "내부유입",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 74
+  }
+ ]
+}

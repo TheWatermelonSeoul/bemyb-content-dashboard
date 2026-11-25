@@ -1,0 +1,96 @@
+{
+ "date": "2026-09-13",
+ "collectedAt": "2026-11-21T05:15:15.101Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 49
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 43
+  },
+  {
+   "source": "내부유입",
+   "visits": 1
+  },
+  {
+   "source": "직접유입",
+   "visits": 37
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 16
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 27
+  },
+  {
+   "domain": "내부유입",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 37
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "date": "2026-08-25",
+ "collectedAt": "2026-11-21T05:13:44.580Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/75",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 265
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 14
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 40
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 2
+  },
+  {
+   "source": "직접유입",
+   "visits": 253
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 20
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 20
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 253
+  }
+ ]
+}

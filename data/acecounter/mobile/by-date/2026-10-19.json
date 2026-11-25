@@ -1,0 +1,134 @@
+{
+ "date": "2026-10-19",
+ "collectedAt": "2026-11-21T05:18:06.739Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 50
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 5
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 25
+  },
+  {
+   "source": "내부유입",
+   "visits": 4
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 30
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 8
+  },
+  {
+   "domain": "daum.net",
+   "visits": 4
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 14
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 4
+  },
+  {
+   "domain": "직접유입",
+   "visits": 30
+  }
+ ]
+}

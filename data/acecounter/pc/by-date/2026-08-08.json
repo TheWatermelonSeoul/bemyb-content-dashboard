@@ -1,0 +1,161 @@
+{
+ "date": "2026-08-08",
+ "collectedAt": "2026-11-21T04:59:41.050Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 116
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/join_complete.php",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 21
+  },
+  {
+   "source": "내부유입",
+   "visits": 3
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 102
+  }
+ ],
+ "domains": [
+  {
+   "domain": "cosmoage.com",
+   "visits": 1
+  },
+  {
+   "domain": "agent55.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 12
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "nowgoogle.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 9
+  },
+  {
+   "domain": "내부유입",
+   "visits": 3
+  },
+  {
+   "domain": "직접유입",
+   "visits": 102
+  }
+ ]
+}

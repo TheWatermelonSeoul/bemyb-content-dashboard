@@ -1,0 +1,127 @@
+{
+ "date": "2026-06-21",
+ "collectedAt": "2026-11-21T05:08:34.287Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/contents-055",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 572
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 363
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 37
+  },
+  {
+   "source": "내부유입",
+   "visits": 3
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 1
+  },
+  {
+   "source": "직접유입",
+   "visits": 149
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 5
+  },
+  {
+   "domain": "daum.net",
+   "visits": 3
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 9
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 354
+  },
+  {
+   "domain": "naver.com",
+   "visits": 29
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 3
+  },
+  {
+   "domain": "직접유입",
+   "visits": 149
+  }
+ ]
+}

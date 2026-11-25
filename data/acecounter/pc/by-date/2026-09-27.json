@@ -1,0 +1,147 @@
+{
+ "date": "2026-09-27",
+ "collectedAt": "2026-11-21T05:03:38.685Z",
+ "pages": [
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/about-before",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/brandtrip1",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 51
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 3
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 24
+  },
+  {
+   "source": "내부유입",
+   "visits": 10
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 27
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 2
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 19
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 3
+  },
+  {
+   "domain": "naver.com",
+   "visits": 5
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 10
+  },
+  {
+   "domain": "직접유입",
+   "visits": 27
+  }
+ ]
+}

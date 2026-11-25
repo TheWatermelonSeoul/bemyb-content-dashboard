@@ -1,0 +1,177 @@
+{
+ "date": "2026-09-07",
+ "collectedAt": "2026-11-21T05:02:03.560Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 66
+  },
+  {
+   "url": "/contents-053",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 232
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 31
+  },
+  {
+   "url": "/lge_brandfan",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 19
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 8
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 73
+  },
+  {
+   "source": "내부유입",
+   "visits": 46
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 8
+  },
+  {
+   "source": "직접유입",
+   "visits": 107
+  }
+ ],
+ "domains": [
+  {
+   "domain": "commons.kr",
+   "visits": 1
+  },
+  {
+   "domain": "chatgpt.com",
+   "visits": 2
+  },
+  {
+   "domain": "bing.com",
+   "visits": 3
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 3
+  },
+  {
+   "domain": "google.com",
+   "visits": 57
+  },
+  {
+   "domain": "naver.com",
+   "visits": 14
+  },
+  {
+   "domain": "saifex.ai",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 46
+  },
+  {
+   "domain": "직접유입",
+   "visits": 107
+  }
+ ]
+}

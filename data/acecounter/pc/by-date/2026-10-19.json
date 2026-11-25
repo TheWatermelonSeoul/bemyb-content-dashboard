@@ -1,0 +1,159 @@
+{
+ "date": "2026-10-19",
+ "collectedAt": "2026-11-21T05:05:23.463Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 30
+  },
+  {
+   "url": "/contents-platform-and-commerce",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 99
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 49
+  },
+  {
+   "source": "내부유입",
+   "visits": 18
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 52
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 38
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 11
+  },
+  {
+   "domain": "pinterest.com",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 18
+  },
+  {
+   "domain": "직접유입",
+   "visits": 52
+  }
+ ]
+}

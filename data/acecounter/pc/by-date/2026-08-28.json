@@ -1,0 +1,149 @@
+{
+ "date": "2026-08-28",
+ "collectedAt": "2026-11-21T05:01:15.995Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 36
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 267
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 27
+  },
+  {
+   "url": "/site_join_agree",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 58
+  },
+  {
+   "source": "내부유입",
+   "visits": 35
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 177
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 2
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 41
+  },
+  {
+   "domain": "naver.com",
+   "visits": 15
+  },
+  {
+   "domain": "내부유입",
+   "visits": 35
+  },
+  {
+   "domain": "직접유입",
+   "visits": 177
+  }
+ ]
+}

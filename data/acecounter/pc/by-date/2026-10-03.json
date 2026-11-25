@@ -1,0 +1,121 @@
+{
+ "date": "2026-10-03",
+ "collectedAt": "2026-11-21T05:04:07.253Z",
+ "pages": [
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 73
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 14
+  },
+  {
+   "source": "내부유입",
+   "visits": 23
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 29
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 3
+  },
+  {
+   "domain": "google.com",
+   "visits": 11
+  },
+  {
+   "domain": "naver.com",
+   "visits": 3
+  },
+  {
+   "domain": "내부유입",
+   "visits": 23
+  },
+  {
+   "domain": "직접유입",
+   "visits": 29
+  }
+ ]
+}

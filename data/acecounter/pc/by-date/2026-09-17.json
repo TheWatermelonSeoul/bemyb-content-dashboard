@@ -1,0 +1,197 @@
+{
+ "date": "2026-09-17",
+ "collectedAt": "2026-11-21T05:02:51.223Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 62
+  },
+  {
+   "url": "/contents-055",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents-media-and-contents",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 133
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 35
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 33
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 23
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_cart",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 4
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 54
+  },
+  {
+   "source": "내부유입",
+   "visits": 49
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 6
+  },
+  {
+   "source": "직접유입",
+   "visits": 70
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android.googlequicksearchbox",
+   "visits": 2
+  },
+  {
+   "domain": "bing.com",
+   "visits": 2
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 42
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 11
+  },
+  {
+   "domain": "내부유입",
+   "visits": 49
+  },
+  {
+   "domain": "직접유입",
+   "visits": 70
+  }
+ ]
+}

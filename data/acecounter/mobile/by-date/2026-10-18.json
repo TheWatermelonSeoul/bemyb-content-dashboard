@@ -1,0 +1,118 @@
+{
+ "date": "2026-10-18",
+ "collectedAt": "2026-11-21T05:18:01.971Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 84
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 31
+  },
+  {
+   "source": "내부유입",
+   "visits": 2
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 29
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 11
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 20
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 2
+  },
+  {
+   "domain": "직접유입",
+   "visits": 29
+  }
+ ]
+}

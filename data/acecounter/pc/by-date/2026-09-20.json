@@ -1,0 +1,211 @@
+{
+ "date": "2026-09-20",
+ "collectedAt": "2026-11-21T05:03:05.374Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/about-before",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 54
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/join_complete.php",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session_review",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/sessionplay",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 29
+  },
+  {
+   "source": "내부유입",
+   "visits": 8
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 14
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 21
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 7
+  },
+  {
+   "domain": "내부유입",
+   "visits": 8
+  },
+  {
+   "domain": "직접유입",
+   "visits": 14
+  }
+ ]
+}

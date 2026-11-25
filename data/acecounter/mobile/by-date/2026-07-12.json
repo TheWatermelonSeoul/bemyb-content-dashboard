@@ -1,0 +1,148 @@
+{
+ "date": "2026-07-12",
+ "collectedAt": "2026-11-21T05:10:13.908Z",
+ "pages": [
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 500
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 259
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 73
+  },
+  {
+   "source": "내부유입",
+   "visits": 4
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 128
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bit.ly",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 8
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "duckduckgo.com",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 257
+  },
+  {
+   "domain": "linkedin.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 65
+  },
+  {
+   "domain": "내부유입",
+   "visits": 4
+  },
+  {
+   "domain": "직접유입",
+   "visits": 128
+  }
+ ]
+}

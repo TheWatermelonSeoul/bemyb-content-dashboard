@@ -1,0 +1,180 @@
+{
+ "date": "2026-08-10",
+ "collectedAt": "2026-11-21T04:59:50.590Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 42
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 343
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 19
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 28
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 26
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/shop_payment/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 4
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 57
+  },
+  {
+   "source": "내부유입",
+   "visits": 50
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 6
+  },
+  {
+   "source": "직접유입",
+   "visits": 285
+  }
+ ],
+ "domains": [
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 43
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "event-us.kr",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 4
+  },
+  {
+   "domain": "naver.com",
+   "visits": 16
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 50
+  },
+  {
+   "domain": "직접유입",
+   "visits": 285
+  }
+ ]
+}

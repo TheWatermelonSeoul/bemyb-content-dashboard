@@ -1,0 +1,141 @@
+{
+ "date": "2026-06-18",
+ "collectedAt": "2026-11-21T05:08:19.984Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 291
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_cart",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_payment/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_payment_complete",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 160
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 20
+  },
+  {
+   "source": "내부유입",
+   "visits": 7
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 91
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 5
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 12
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 148
+  },
+  {
+   "domain": "linktr.ee",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 14
+  },
+  {
+   "domain": "내부유입",
+   "visits": 7
+  },
+  {
+   "domain": "직접유입",
+   "visits": 91
+  }
+ ]
+}

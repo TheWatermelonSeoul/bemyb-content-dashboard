@@ -1,0 +1,114 @@
+{
+ "date": "2026-10-17",
+ "collectedAt": "2026-11-21T05:17:57.225Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 55
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 5
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 21
+  },
+  {
+   "source": "내부유입",
+   "visits": 3
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 18
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 12
+  },
+  {
+   "domain": "naver.com",
+   "visits": 9
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 3
+  },
+  {
+   "domain": "yahoo.co.jp",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 3
+  },
+  {
+   "domain": "직접유입",
+   "visits": 18
+  }
+ ]
+}

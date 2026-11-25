@@ -1,0 +1,163 @@
+{
+ "date": "2026-09-06",
+ "collectedAt": "2026-11-21T05:01:58.836Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/abroadNews-collection",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 118
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/site_join_agree",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 35
+  },
+  {
+   "source": "내부유입",
+   "visits": 11
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 2
+  },
+  {
+   "source": "직접유입",
+   "visits": 110
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 28
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 7
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 11
+  },
+  {
+   "domain": "직접유입",
+   "visits": 110
+  }
+ ]
+}

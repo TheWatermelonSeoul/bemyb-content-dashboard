@@ -1,0 +1,104 @@
+{
+ "date": "2026-08-28",
+ "collectedAt": "2026-11-21T05:13:58.938Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 61
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 28
+  },
+  {
+   "source": "내부유입",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 6
+  },
+  {
+   "source": "직접유입",
+   "visits": 34
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 10
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 18
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 34
+  }
+ ]
+}

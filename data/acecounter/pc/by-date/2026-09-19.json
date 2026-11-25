@@ -1,0 +1,117 @@
+{
+ "date": "2026-09-19",
+ "collectedAt": "2026-11-21T05:03:00.640Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 54
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 14
+  },
+  {
+   "source": "내부유입",
+   "visits": 8
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 3
+  },
+  {
+   "source": "직접유입",
+   "visits": 12
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 9
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 5
+  },
+  {
+   "domain": "stibee.com",
+   "visits": 1
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 8
+  },
+  {
+   "domain": "직접유입",
+   "visits": 12
+  }
+ ]
+}

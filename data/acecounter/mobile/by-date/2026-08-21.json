@@ -1,0 +1,88 @@
+{
+ "date": "2026-08-21",
+ "collectedAt": "2026-11-21T05:13:25.329Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 48
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 2
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 38
+  },
+  {
+   "source": "내부유입",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 1
+  },
+  {
+   "source": "직접유입",
+   "visits": 12
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 10
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 27
+  },
+  {
+   "domain": "내부유입",
+   "visits": 1
+  },
+  {
+   "domain": "직접유입",
+   "visits": 12
+  }
+ ]
+}

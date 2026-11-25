@@ -1,0 +1,150 @@
+{
+ "date": "2026-09-02",
+ "collectedAt": "2026-11-21T05:14:22.672Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/447/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 525
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 13
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 29
+  },
+  {
+   "source": "내부유입",
+   "visits": 2
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 30
+  },
+  {
+   "source": "직접유입",
+   "visits": 500
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 7
+  },
+  {
+   "domain": "daum.net",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 29
+  },
+  {
+   "domain": "naver.com",
+   "visits": 22
+  },
+  {
+   "domain": "내부유입",
+   "visits": 2
+  },
+  {
+   "domain": "직접유입",
+   "visits": 500
+  }
+ ]
+}

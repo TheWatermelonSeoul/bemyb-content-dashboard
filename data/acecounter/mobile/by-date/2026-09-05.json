@@ -1,0 +1,118 @@
+{
+ "date": "2026-09-05",
+ "collectedAt": "2026-11-21T05:14:36.890Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/abroadNews-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 168
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 8
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 36
+  },
+  {
+   "source": "내부유입",
+   "visits": 2
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 142
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 9
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 26
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 2
+  },
+  {
+   "domain": "직접유입",
+   "visits": 142
+  }
+ ]
+}

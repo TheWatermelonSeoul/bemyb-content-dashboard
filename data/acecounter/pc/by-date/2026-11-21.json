@@ -1,0 +1,412 @@
+{
+ "date": "2026-11-21",
+ "collectedAt": "2026-11-25T12:29:20.627Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 20
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 69
+  },
+  {
+   "url": "/contents/index.cm?idx=10470882",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=10490994",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=10616875",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=10630042",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=106478009",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11005037",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11063931",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11160993",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11207641",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11334669",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11751914",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=11879544",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=121217972",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=12818184",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=12865592",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=13456081",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=13544191",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=13774497",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=140406024",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=142148849",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents/index.cm?idx=14236696",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=144320735",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=145330796",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=15487832",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=15551342",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=15685913",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=15868338",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=15911404",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=161619346",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=16494518",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=165528909",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=16838296",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=170249411",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents/index.cm?idx=170328459",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm?idx=172262996",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=17251403",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=17266326",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=174137593",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=174660749",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=174901497",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm?idx=175076691",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm?idx=175217831",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=175337558",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm?idx=175415731",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=175549108",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm?idx=175703802",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm?idx=18113761",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm?idx=28283348",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=5601420",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=5601640",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=5602291",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=6396838",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=6730406",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=8414473",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm?idx=9193480",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 95
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_view/255",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/site_join_agree",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/site_join_pattern_choice",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/site_join_type_choice",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 22
+  },
+  {
+   "source": "내부유입",
+   "visits": 26
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 2
+  },
+  {
+   "source": "직접유입",
+   "visits": 215
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 18
+  },
+  {
+   "domain": "naver.com",
+   "visits": 6
+  },
+  {
+   "domain": "내부유입",
+   "visits": 26
+  },
+  {
+   "domain": "직접유입",
+   "visits": 215
+  }
+ ]
+}

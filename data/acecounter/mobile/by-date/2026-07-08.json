@@ -1,0 +1,131 @@
+{
+ "date": "2026-07-08",
+ "collectedAt": "2026-11-21T05:09:55.092Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 479
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 3
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 158
+  },
+  {
+   "source": "내부유입",
+   "visits": 4
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 62
+  },
+  {
+   "source": "직접유입",
+   "visits": 224
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 7
+  },
+  {
+   "domain": "daum.net",
+   "visits": 3
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 59
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 2
+  },
+  {
+   "domain": "naver.com",
+   "visits": 150
+  },
+  {
+   "domain": "내부유입",
+   "visits": 4
+  },
+  {
+   "domain": "직접유입",
+   "visits": 224
+  }
+ ]
+}

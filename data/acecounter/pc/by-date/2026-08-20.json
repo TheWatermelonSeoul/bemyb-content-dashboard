@@ -1,0 +1,166 @@
+{
+ "date": "2026-08-20",
+ "collectedAt": "2026-11-21T05:00:38.131Z",
+ "pages": [
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/438/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 51
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 142
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 19
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 27
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 9
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 3
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 61
+  },
+  {
+   "source": "내부유입",
+   "visits": 41
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 8
+  },
+  {
+   "source": "직접유입",
+   "visits": 80
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 1
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 42
+  },
+  {
+   "domain": "linkedin.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 21
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 1
+  },
+  {
+   "domain": "zep.us",
+   "visits": 3
+  },
+  {
+   "domain": "내부유입",
+   "visits": 41
+  },
+  {
+   "domain": "직접유입",
+   "visits": 80
+  }
+ ]
+}

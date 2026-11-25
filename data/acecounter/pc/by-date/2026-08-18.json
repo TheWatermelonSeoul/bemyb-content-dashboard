@@ -1,0 +1,205 @@
+{
+ "date": "2026-08-18",
+ "collectedAt": "2026-11-21T05:00:28.638Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/brandsession",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 44
+  },
+  {
+   "url": "/contents-platform-and-commerce",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 130
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 14
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 28
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/search/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 17
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 1
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 66
+  },
+  {
+   "source": "내부유입",
+   "visits": 31
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 5
+  },
+  {
+   "source": "직접유입",
+   "visits": 91
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 2
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 45
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "i-boss.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 21
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 31
+  },
+  {
+   "domain": "직접유입",
+   "visits": 91
+  }
+ ]
+}

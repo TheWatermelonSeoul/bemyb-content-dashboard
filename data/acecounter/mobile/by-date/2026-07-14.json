@@ -1,0 +1,122 @@
+{
+ "date": "2026-07-14",
+ "collectedAt": "2026-11-21T05:10:23.446Z",
+ "pages": [
+  {
+   "url": "/411/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 8
+  },
+  {
+   "url": "/TheWaterMelonletter-collection",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/contents-media-and-contents",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 231
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 95
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 56
+  },
+  {
+   "source": "내부유입",
+   "visits": 2
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 4
+  },
+  {
+   "source": "직접유입",
+   "visits": 71
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 2
+  },
+  {
+   "domain": "google.com",
+   "visits": 9
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 1
+  },
+  {
+   "domain": "flowup.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 94
+  },
+  {
+   "domain": "naver.com",
+   "visits": 48
+  },
+  {
+   "domain": "내부유입",
+   "visits": 2
+  },
+  {
+   "domain": "직접유입",
+   "visits": 71
+  }
+ ]
+}

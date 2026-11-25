@@ -1,0 +1,156 @@
+{
+ "date": "2026-06-22",
+ "collectedAt": "2026-11-21T05:08:39.050Z",
+ "pages": [
+  {
+   "url": "/411",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 25
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 265
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 7
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 5
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 12
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 122
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 44
+  },
+  {
+   "source": "내부유입",
+   "visits": 5
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 2
+  },
+  {
+   "source": "직접유입",
+   "visits": 86
+  }
+ ],
+ "domains": [
+  {
+   "domain": "google.com",
+   "visits": 11
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "facebook.com",
+   "visits": 3
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 119
+  },
+  {
+   "domain": "naver.com",
+   "visits": 31
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 5
+  },
+  {
+   "domain": "직접유입",
+   "visits": 86
+  }
+ ]
+}

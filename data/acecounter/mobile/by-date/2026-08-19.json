@@ -1,0 +1,154 @@
+{
+ "date": "2026-08-19",
+ "collectedAt": "2026-11-21T05:13:15.902Z",
+ "pages": [
+  {
+   "url": "/413",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 278
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 18
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 16
+  },
+  {
+   "url": "/login",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/opensession/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 5
+  }
+ ],
+ "sources": [
+  {
+   "source": "SNS",
+   "visits": 14
+  },
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 30
+  },
+  {
+   "source": "내부유입",
+   "visits": 3
+  },
+  {
+   "source": "블로그",
+   "visits": 1
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 38
+  },
+  {
+   "source": "직접유입",
+   "visits": 189
+  }
+ ],
+ "domains": [
+  {
+   "domain": "android-app",
+   "visits": 2
+  },
+  {
+   "domain": "brunch.co.kr",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 13
+  },
+  {
+   "domain": "daum.net",
+   "visits": 2
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 33
+  },
+  {
+   "domain": "instagram.com",
+   "visits": 14
+  },
+  {
+   "domain": "naver.com",
+   "visits": 16
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 2
+  },
+  {
+   "domain": "내부유입",
+   "visits": 3
+  },
+  {
+   "domain": "직접유입",
+   "visits": 189
+  }
+ ]
+}

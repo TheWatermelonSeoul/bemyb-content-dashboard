@@ -1,0 +1,199 @@
+{
+ "date": "2026-09-22",
+ "collectedAt": "2026-11-21T05:03:14.894Z",
+ "pages": [
+  {
+   "url": "/435",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/435/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/438",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/439",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/443/index.cm",
+   "name": null,
+   "pageviews": 3
+  },
+  {
+   "url": "/Archive",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/backpg/login.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/business",
+   "name": null,
+   "pageviews": 10
+  },
+  {
+   "url": "/campaign",
+   "name": null,
+   "pageviews": 15
+  },
+  {
+   "url": "/contents",
+   "name": null,
+   "pageviews": 107
+  },
+  {
+   "url": "/contents-050",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/contents/index.cm",
+   "name": null,
+   "pageviews": 251
+  },
+  {
+   "url": "/home",
+   "name": null,
+   "pageviews": 145
+  },
+  {
+   "url": "/index.cm",
+   "name": null,
+   "pageviews": 22
+  },
+  {
+   "url": "/new",
+   "name": null,
+   "pageviews": 21
+  },
+  {
+   "url": "/search",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/session",
+   "name": null,
+   "pageviews": 24
+  },
+  {
+   "url": "/session/index.cm",
+   "name": null,
+   "pageviews": 11
+  },
+  {
+   "url": "/session_review/index.cm",
+   "name": null,
+   "pageviews": 4
+  },
+  {
+   "url": "/shop_mypage",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/shop_mypage/index.cm",
+   "name": null,
+   "pageviews": 1
+  },
+  {
+   "url": "/shop_view",
+   "name": null,
+   "pageviews": 6
+  },
+  {
+   "url": "/shop_view/index.cm",
+   "name": null,
+   "pageviews": 2
+  },
+  {
+   "url": "/storage/index.cm",
+   "name": null,
+   "pageviews": 1
+  }
+ ],
+ "sources": [
+  {
+   "source": "검색엔진(키워드광고제외)",
+   "visits": 56
+  },
+  {
+   "source": "내부유입",
+   "visits": 46
+  },
+  {
+   "source": "외부도메인(검색엔진제외)",
+   "visits": 12
+  },
+  {
+   "source": "직접유입",
+   "visits": 172
+  }
+ ],
+ "domains": [
+  {
+   "domain": "chatgpt.com",
+   "visits": 3
+  },
+  {
+   "domain": "bing.com",
+   "visits": 1
+  },
+  {
+   "domain": "google.com",
+   "visits": 43
+  },
+  {
+   "domain": "kakao.com",
+   "visits": 1
+  },
+  {
+   "domain": "live.com",
+   "visits": 1
+  },
+  {
+   "domain": "naver.com",
+   "visits": 13
+  },
+  {
+   "domain": "static.microsoft",
+   "visits": 1
+  },
+  {
+   "domain": "surfit.io",
+   "visits": 2
+  },
+  {
+   "domain": "perplexity.ai",
+   "visits": 2
+  },
+  {
+   "domain": "wikipedia.org",
+   "visits": 1
+  },
+  {
+   "domain": "내부유입",
+   "visits": 46
+  },
+  {
+   "domain": "직접유입",
+   "visits": 172
+  }
+ ]
+}
