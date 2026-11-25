@@ -183,9 +183,23 @@ async function collect() {
   }
   const yesterday = addDays(ymd(kstToday()), -1);
   const to = opt("to") || yesterday;
-  const from = opt("from") || addDays(to, -2);
   const only = opt("site"); // pc | mobile (생략하면 둘 다)
   const sites = SITES.filter((s) => !only || s.key === only);
+  // 기본 시작일: 최근 3일과 '빠진 날짜' 중 더 이른 날 (최대 60일 전까지) — 며칠 쉬어도 공백이 생기지 않게
+  let from = opt("from");
+  if (!from) {
+    from = addDays(to, -2);
+    const floor = addDays(to, -60);
+    for (const s of sites) {
+      const dir = path.join(OUT, s.key, "by-date");
+      const have = new Set(fs.existsSync(dir) ? fs.readdirSync(dir).map((f) => f.replace(".json", "")) : []);
+      if (!have.size) continue;
+      const last = [...have].sort().pop();
+      for (const d of daysBetween(addDays(last, -14) < floor ? floor : addDays(last, -14), to)) {
+        if (!have.has(d) && d < from) { from = d; break; }
+      }
+    }
+  }
   console.log(`수집 기간: ${from} ~ ${to} · 대상: ${sites.map((s) => s.label).join(", ")}`);
 
   const browser = await launch(true);

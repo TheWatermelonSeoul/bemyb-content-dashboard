@@ -1090,5 +1090,26 @@
   "newVisits": 154,
   "returnVisits": 16,
   "pageviews": 236
+ },
+ "2026-11-22": {
+  "date": "2026-11-22",
+  "visits": 182,
+  "newVisits": 162,
+  "returnVisits": 20,
+  "pageviews": 196
+ },
+ "2026-11-23": {
+  "date": "2026-11-23",
+  "visits": 226,
+  "newVisits": 151,
+  "returnVisits": 75,
+  "pageviews": 443
+ },
+ "2026-11-24": {
+  "date": "2026-11-24",
+  "visits": 244,
+  "newVisits": 172,
+  "returnVisits": 72,
+  "pageviews": 448
  }
 }
