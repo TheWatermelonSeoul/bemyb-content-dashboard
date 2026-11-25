@@ -3443,5 +3443,25 @@
   "date": "2026-11-20",
   "friendCount": 11006,
   "friendAdd": 1
+ },
+ "2026-11-24": {
+  "date": "2026-11-24",
+  "friendCount": 11009,
+  "friendAdd": 3
+ },
+ "2026-11-23": {
+  "date": "2026-11-23",
+  "friendCount": 11006,
+  "friendAdd": 2
+ },
+ "2026-11-22": {
+  "date": "2026-11-22",
+  "friendCount": 11005,
+  "friendAdd": 2
+ },
+ "2026-11-21": {
+  "date": "2026-11-21",
+  "friendCount": 11005,
+  "friendAdd": 0
  }
 }
