@@ -51,24 +51,27 @@ if (mode === "login") {
   const ctx = await browser.newContext({ storageState: STATE });
   const page = await ctx.newPage();
   await page.goto(REPORT_URL);
+  await page.waitForLoadState("networkidle").catch(() => {});
   if (!page.url().startsWith("https://business.kakao.com")) {
     console.error("로그인 세션이 만료됐습니다. `npm run kakao:login` 을 다시 실행하세요.");
     await browser.close();
     process.exit(2);
   }
   const data = await page.evaluate(async (profile) => {
+    // 최근 14일 친구 통계 + 이번 달·지난달 메시지 통계
     const base = `/api/statistics/profiles/${profile}/`;
     const ymd = (d) => d.toISOString().slice(0, 10);
     const today = new Date(Date.now() + 9 * 3600e3);
     const end = new Date(today); end.setUTCDate(end.getUTCDate() - 1);
     const start = new Date(end); start.setUTCDate(start.getUTCDate() - 13);
     const f = await (await fetch(`${base}friends?startAt=${ymd(start)}&endAt=${ymd(end)}`, { credentials: "include" })).json();
+    if (!Array.isArray(f.items)) throw new Error("친구 통계 응답이 예상과 다릅니다: " + JSON.stringify(f).slice(0, 200));
     const msgs = {};
     for (let back = 1; back >= 0; back--) {
       const y = end.getUTCFullYear(), m = end.getUTCMonth() - back;
       const s = new Date(Date.UTC(y, m, 1)), e = new Date(Date.UTC(y, m + 1, 0));
       const j = await (await fetch(`${base}messages?startAt=${ymd(s)}&endAt=${ymd(e)}&since=0&limit=50`, { credentials: "include" })).json();
-      for (const i of j.items) {
+      for (const i of j.items ?? []) {
         msgs[i.message_id] = {
           id: i.message_id,
           at: i.message?.send_start_at || i.message?.created_at || 0,

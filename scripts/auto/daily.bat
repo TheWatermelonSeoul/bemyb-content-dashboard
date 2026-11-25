@@ -12,6 +12,7 @@ call npm run posts:sync >> "%LOG%" 2>&1
 call npm run ace:collect >> "%LOG%" 2>&1
 call npm run imweb:collect >> "%LOG%" 2>&1
 if exist .env.local call npm run meta:collect >> "%LOG%" 2>&1
+if exist .secrets\kakao-state.json call npm run kakao:collect >> "%LOG%" 2>&1
 "%GIT%" add data >> "%LOG%" 2>&1
 "%GIT%" diff --cached --quiet
 if %errorlevel%==0 (

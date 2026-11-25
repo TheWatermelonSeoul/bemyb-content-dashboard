@@ -15,3 +15,4 @@ data/**/raw/
 kakao-export*.json
 logs/
 지금갱신.bat
+카카오로그인.bat
