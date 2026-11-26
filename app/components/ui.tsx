@@ -11,7 +11,7 @@ export function DataBanner({ mode, collectedAt, source }: { mode: DataMode; coll
   }
   return (
     <div className="banner live">
-      <strong>실제 데이터</strong> — {source} · 마지막 수집 {collectedAt ? new Date(collectedAt).toLocaleString("ko-KR") : "기록 없음"}
+      <strong>실제 데이터</strong> — {source} · 마지막 수집 {collectedAt ? new Date(collectedAt).toLocaleString("ko-KR", { timeZone: "Asia/Seoul" }) : "기록 없음"}
     </div>
   );
 }
