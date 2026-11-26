@@ -557,7 +557,7 @@
   "accounts_engaged": 20,
   "total_interactions": 27,
   "views": 4392,
-  "follower_count": 0
+  "follower_count": 6
  },
  "2026-11-24": {
   "date": "2026-11-24",
@@ -566,6 +566,16 @@
   "website_clicks": 10,
   "accounts_engaged": 24,
   "total_interactions": 32,
-  "views": 5272
+  "views": 5272,
+  "follower_count": 0
+ },
+ "2026-11-25": {
+  "date": "2026-11-25",
+  "reach": 996,
+  "profile_views": 28,
+  "website_clicks": 3,
+  "accounts_engaged": 17,
+  "total_interactions": 24,
+  "views": 2478
  }
 }
